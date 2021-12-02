@@ -1,1 +1,4 @@
-![GoG](https://www.google.com/search?q=gog+game&rlz=1C1YTUH_thTH975TH975&sxsrf=AOaemvIfSK0ibk64uQ41JXfZiKuz-vXabQ:1638454856271&tbm=isch&source=iu&ictx=1&fir=E5JkmSJeOYlt3M%252C_eF7rytDOUWVSM%252C%252Fm%252F0rzcxpl&vet=1&usg=AI4_-kRj02Hh88FsUMk3PtJzrtunlD-XvA&sa=X&ved=2ahUKEwjLssD9p8X0AhUSTGwGHeIhCIwQ_B16BAhIEAI#imgrc=E5JkmSJeOYlt3M)
+[GoG](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavSdxVOi7iEMA3j8x9USKfYVaNe5g0XAo3A&usqp=CAU)
+
+&nbsp;ชื่อมอด                            | สถานะการแปล                                                    | รวมเข้ากับ mod หลัก
+--------------------------------- | :------------------------------------------------------------- | :------------------------------------------------------------------------

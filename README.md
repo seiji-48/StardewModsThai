@@ -1,3 +1,3 @@
 &nbsp;ชื่อมอด                            | สถานะการแปล                                                    
 --------------------------------- | :------------------------------------------------------------- 
- Simple Electricity System | [ยังไม่ได้แปล](Simple Electricity System/) 
+ Simple Electricity System | [ยังไม่ได้แปล](Simple Electricity System/)

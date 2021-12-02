@@ -1,0 +1,17 @@
+﻿{
+    "Name": "[PFM] Coal Power",
+    "Author": "aedenthorn",
+    "Version": "0.1.0",
+    "Description": "Burn charcoal to power a power grid",
+    "UniqueID": "aedenthorn.CoalPower",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [ "Nexus:" ],
+    "Dependencies": [
+        {
+            "UniqueID": "Digus.ProducerFrameworkMod"
+        }
+    ],
+    "ContentPackFor": {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    }
+}

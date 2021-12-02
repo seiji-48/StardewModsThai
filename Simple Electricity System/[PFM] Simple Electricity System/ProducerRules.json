@@ -1,0 +1,13 @@
+﻿[
+    {
+        "ProducerName": "Charcoal Kiln",
+        "InputIdentifier": "382", // Coal
+        "InputStack": 10,
+        "MinutesUntilReady": "2880",
+        "OutputIdentifier": "382", // Coal
+        "OutputStack": 0,
+        "Sounds": [ "openBox" ],
+        "DelayedSounds": [ { "fireball": 50 } ],
+        "PlacingAnimation": "CharcoalKilnSmoke",
+    }
+]

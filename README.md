@@ -1,2 +1,1 @@
-# StardewModsThai
-มอดภาษาไทยของเกม Stardew valley
+

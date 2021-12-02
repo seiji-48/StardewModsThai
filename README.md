@@ -1,6 +1,6 @@
 ![](https://thaigameguide.com/wp-content/uploads/2016/02/Stardew-Valley-Buy.jpg)
 
-##สัณลักษณ์
+## สัญลักษณ์
 
 (✖ = ไม่ไม่ได้แปล, ✎ = กำลังแปล, ✔ = แปลเสร็จแล้ว)
 &nbsp;ชื่อมอด                            | สถานะการแปล                                                 | เวอร์ชัน  

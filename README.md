@@ -1,4 +1,4 @@
-![](https://thaigameguide.com/wp-content/uploads/2016/02/Stardew-Valley-Buy.jpg)
+![](https://cdn.discordapp.com/attachments/916320986784202762/916321029675167744/SeekPng.com_stardew-valley-png_2197974.png)
 
 ## สัญลักษณ์
 

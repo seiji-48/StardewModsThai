@@ -1,20 +1,20 @@
 ﻿{
 	//Welcome message after the stardew aquarium has been completed
-	"AquariumWelcome": "Welcome to the Stardew Aquarium! We've now acquired a full collection. And it's all thanks to you!",
+	"AquariumWelcome": "ยินดีต้อนรับสู่ Stardew Aquarium! เราได้รับคอลเลกชันสสมบูรณ์แบบแล้ว และทั้งหมดนี้ต้องขอบคุณคุณ!",
 
-	//Donation menu dialogue and options
-	"DonationMenuTitle": "Select fish to donate",
-	"DonationQuestion": "Welcome to the Stardew Aquarium! Would you like to donate a fish today?",
-	"OptionYes": "Yes",
-	"OptionNo": "No",
-	"More": "More",
-	"Exit": "Exit",
-	"DeclineToDonate": "You are free to return anytime if you change your mind!",
-	"NothingToDonate": "Welcome to the Stardew Aquarium! If you ever find a specimen we're missing, we'd be delighted if you would considering making a donation.",
-	"MenuCloseFishDonated": "Thank you so much for your contribution! Come back in a moment and I will have set it up!",
-	"MenuCloseNoFishDonated": "Please come back any time.",
-	"Donate": "Donate: ",
-	"DonateDescription": "Clicking the button below will donate this fish and remove it from your inventory",
+ //กล่องโต้ตอบเมนูบริจาคและตัวเลือก
+ "DonationMenuTitle": "เลือกปลาที่จะบริจาค",
+ "DonationQuestion": "ยินดีต้อนรับสู่ Stardew Aquarium! วันนี้คุณอยากจะบริจาคปลาไหม",
+ "OptionYes": "ใช่",
+ "OptionNo": "ไม่",
+ "More": "เพิ่มเติม",
+ "Exit": "ออก",
+ "DeclineToDonate": "คุณสามารถกลับมาได้ทุกเมื่อถ้าคุณเปลี่ยนใจ!",
+ "NothingToDonate": "ยินดีต้อนรับสู่ Stardew Aquarium! หากคุณพบตัวอย่างที่เราขาดหายไป เรายินดีเป็นอย่างยิ่งหากคุณจะพิจารณาบริจาค",
+ "MenuCloseFishDonated": "ขอบคุณมากสำหรับการสนับสนุนของคุณ! กลับมาอีกครั้งแล้วฉันจะจัดการให้!",
+ "MenuCloseNoFishDonated": "โปรดกลับมาเมื่อไรก็ได้",
+ "Donate": "บริจาค: ",
+ "DonateDescription": "การคลิกที่ปุ่มด้านล่างจะเป็นการบริจาคปลาตัวนี้และนำออกจากคลังของคุณ",
 
 	//global messages in multiplayer
 	"FishDonatedMP": "{0} has donated {1} to the Aquarium",

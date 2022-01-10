@@ -1,6 +1,6 @@
 ﻿{
-	//Welcome message after the stardew aquarium has been completed
-	"AquariumWelcome": "ยินดีต้อนรับสู่ Stardew Aquarium! เราได้รับคอลเลกชันสสมบูรณ์แบบแล้ว และทั้งหมดนี้ต้องขอบคุณคุณ!",
+ //ข้อความต้อนรับหลัง stardew aquarium เสร็จเรียบร้อย
+ "AquariumWelcome": "ยินดีต้อนรับสู่ Stardew Aquarium! เราได้รับคอลเลกชันสสมบูรณ์แบบแล้ว และทั้งหมดนี้ต้องขอบคุณคุณ!",
 
  //กล่องโต้ตอบเมนูบริจาคและตัวเลือก
  "DonationMenuTitle": "เลือกปลาที่จะบริจาค",

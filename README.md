@@ -6,4 +6,4 @@
 ## มอดที่แปล
  ชื่อมอด                            | สถานะการแปล                                                 | เวอร์ชั่น  
 --------------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------
- "NPC Adventures (It's time to adventure)"| 📝[กำลังแปล](StardewModsThai/NpcAdventure/) | [0.17.3](https://www.nexusmods.com/stardewvalley/mods/4582) | 
+ NPC Adventures (It's time to adventure)| 📝[กำลังแปล](https://github.com/seiji-48/StardewModsThai/tree/main/NpcAdventure) | [0.17.3](https://www.nexusmods.com/stardewvalley/mods/4582) | 

@@ -1,36 +1,71 @@
 {
-  "companionAccepted_Spouse": "Absolutely! I'd love to go! I can't wait to go outside and spend some time with you in nature!$1",
-  "companionRejectedNight_Spouse": "I don't think it's a good idea to go out at this hour, dear. Maybe next time!",
-  "companionDismiss_Spouse": "I had great time with you, @! Thank you for taking me out, today!$1#$b#Say hi to Haley and Clint for me if you see them! See you at home!",
-  "companionDismissAuto_Spouse": "I should get going. It was really nice going out with you.#$b#Don't stay out too late and stay safe. May Yoba always protect you.",
-  "companionRecruited_Spouse": "I really love spending time with you, dear. It makes me feel all sorts of positive emotion inside.$4",
-  "companionAccepted": "Absolutely!$h",
-  "companionRejected": "No, thank you. I feel the spirits are unhappy with me today.",
-  "companionRejectedNight": "Don't you know it's dangerous to explore at night?",
-  "companionDismiss": "Alright, I'll see you later!",
-  "companionDismissAuto": "Sorry, @, I have to go. Haley is terrible at cooking and if I'm not there she'll burn the whole house down!",
-  "companionRecruited": "Lead the way.$h",
-  "companionSuggest": "What a wonderful day! I feel the urge to go on a walk and admire the Valley...#$q -1 -1#Would you accompany me?#$r -1 0 Yes#That would be nice. Let's go!#$r -1 0 No#Today I can't, but thanks for inviting me.",
-  "companionSuggest_Yes": "I knew you were enjoying this day as much as I am!$h",
-  "companionSuggest_No": "It's okay. I sense we will have many other opportunities in the future...",
-  "companion_Beach": "Oh, I want to look for some urchins! Did you know they make beautiful dyes?",
-  "companion_Beach_Dating": "I love the sea, but looking at it makes me sad sometimes.$2#$b#I can't help but think about what we're doing to it, and it's beautiful creatures. Sorry to be downer...$2",
-  "companion_Farm": "I hope all your crops are organic, @. You know, they taste much better that way!$1",
-  "companion_Farm_Dating": "You're a really great farmer, @! It's wonderful that you've found your calling, or rather that it's found you!$1",
-  "companion_Farm_Spouse": "I really love my crystal garden, @, but it pales in comparison to the natural beauty of our farm!#$b#I always feel rejuvenated here!",
-  "companion_Forest": "This forest is always brimming with powerful energies. I wonder why...",
-  "companion_Forest_Dating": "With the quiet of the forest and the absence of daily distractions, I feel so close to you, @.$4#$b#I always knew we'd have a special bond...$4",
-  "companion_Forest_Spouse": "My horoscope was right! I did get to 'experience nature in all it's majesty' today! Thank you, dear!$1",
-  "companion_Forest_Spouse~1": "I have many friends in this forest.#$b#No, not people dear, the trees themselves!#$b#Oh, don't look at me like that!$1",
-  "companion_Mine": "I should use this opportunity to gather some crystals!$h",
-  "companion_Mine_Dating": "I'm praying we don't run into any of the mines inhabitants, I don't enjoy slaying them.$2#$b#I wish they weren't so hostile and we could share the space, but I understand why they are.$2",
-  "companion_Mine_Dating~1": "It's a good thing Harvey's clinic isn't too far from here, you never know what could happen!$3#$b#Let's stay close together, okay, @?",
-  "companion_Mine_Spouse": "Yoba, please bless us in this place!$3",
-  "companion_Mine_Spouse~1": "It's hard for me to be here, @. I don't want to hurt these creatures, and we are trespassing in their home after all.$2#$b#I know we're protecting ourselves, but I wish there was another way...$2",
-  "companion_Mountain": "I think Linus chose such a nice place to live, don't you agree?",
-  "companion_Mountain_Dating": "Linus is a really interesting guy, you know him, yeah?#$b#I hope you're kind to him, he just wants to live with nature, it's a good thing.",
-  "companion_Mountain_Spouse": "The mountain lake here is my favorite in the whole valley.#$b#There are so many beautiful spots so it's hard to choose, but if I had to, definitely this one!$1",
-  "companion_Town": "I'm glad that Gus let me take this day off. Let's have some fun!$1",
-  "companion_Town_Dating": "Gus is a great boss, and so passionate about his craft!#$b#It's really powerful energy to be around, but I wouldn't mind a change in occupation one day, like being a mom...$4",
-  "companion_Town_Spouse": "I love the saloon but I've spent so much time there working, it's hard for me to go in and just relax!"
+  "companionAccepted_Spouse": 
+"แน่นอน! ฉันชอบที่จะไป! ฉันไม่สามารถรอที่จะออกไปข้างนอกและใช้เวลาอยู่กับคุณในธรรมชาติ!$1",  
+"companionRejectedNight_Spouse": 
+"ฉันไม่คิดว่าควรออกไปในเวลานี้ ที่รัก คราวหน้าอาจจะไป!",  
+"companionDismiss_Spouse": 
+"ฉันมีช่วงเวลาที่ดีกับคุณ @! ขอบคุณที่พาฉันออกไปในวันนี้!$1#$b#ทักทายกับเฮลีย์และคลินต์ให้ฉันด้วยถ้าคุณเห็นพวกเขา! เจอกันที่บ้าน!",  
+"companionDismissAuto_Spouse": 
+"ฉันควรไปได้แล้ว รู้สึกดีจริงๆ ที่ได้อยู่กับเธอ#$b#อย่าอยู่ดึกเกินไปและอยู่อย่างปลอดภัย ขอให้โยบาปกป้องเธอเสมอ",  
+"companionRecruited_Spouse": 
+"ฉันชอบที่จะใช้เวลากับคุณจริงๆ ที่รัก มันทำให้ฉันรู้สึกถึงอารมณ์เชิงบวกทุกรูปแบบภายใน $4",  
+"companionAccepted": 
+"แน่นอน!$h",  
+"companionRejected": 
+"ไม่ ขอบคุณ ฉันรู้สึกว่าวิญญาณไม่มีความสุขกับฉันในวันนี้",  
+"companionRejectedNight": 
+"คุณไม่รู้เหรอว่าการสำรวจตอนกลางคืนมันอันตราย",  
+"companionDismiss": 
+"ก็ได้ แล้วเจอกัน!",  
+"companionDismissAuto": 
+"ขอโทษนะ @ ฉันต้องไปแล้ว เฮลีย์ทำอาหารได้แย่มาก และถ้าฉันไม่อยู่ที่นั่น เธอจะเผาบ้านทั้งหลัง!",  
+"companionRecruited": 
+"นำทาง.$h",  
+"companionSuggest": 
+"ช่างเป็นวันที่วิเศษจริงๆ! ฉันรู้สึกอยากจะออกไปเดินเล่นและชื่นชมหุบเขา...#$q -1 -1# คุณจะไปกับผมไหม#$r -1 0 ใช่# คงจะดี ไปกันเถอะ !#$r -1 0 ไม่#วันนี้ฉันทำไม่ได้ แต่ขอบคุณที่เชิญฉัน",  
+"companionSuggest_Yes": 
+"ฉันรู้ว่าคุณสนุกกับวันนี้มากเท่ากับฉัน!$h",  
+"companionSuggest_No": 
+"ไม่เป็นไร ฉันรู้สึกว่าเราจะมีโอกาสอื่นอีกมากมายในอนาคต...",  
+"companion_Beach": 
+"โอ้ ฉันต้องการหาเม่น!"  
+"companion_Beach_Dating": 
+"ฉันชอบทะเล แต่การได้ดูมันทำให้ฉันเศร้าในบางครั้ง$2#$b#ฉันอดคิดไม่ได้ว่าเรากำลังทำอะไรกับมันอยู่ และมันเป็นสิ่งมีชีวิตที่สวยงาม ขอโทษที่ทำตัวแย่...$2" ,  
+"companion_Farm": 
+"ฉันหวังว่าพืชผลทั้งหมดของคุณจะเป็นออร์แกนิก @ คุณรู้ไหมว่าวิธีนี้มีรสชาติที่ดีกว่ามาก! $1",  
+"companion_Farm_Dating": 
+"คุณเป็นเกษตรกรที่เก่งมาก @! เป็นเรื่องที่วิเศษมากที่คุณพบสิ่งที่ต้องการ หรือถูกพบคุณ!$1",  
+"companion_Farm_Spouse": 
+"ฉันชอบสวนคริสตัลของฉันมาก @ แต่มันดูจืดชืดเมื่อเทียบกับความงามตามธรรมชาติของฟาร์มของเรา!#$b#ฉันรู้สึกกระปรี้กระเปร่าที่นี่เสมอ!",  
+"companion_Forest": 
+"ป่าแห่งนี้เต็มไปด้วยพลังอันทรงพลัง ฉันสงสัยว่าทำไม...",  
+"companion_Forest_Dating": 
+"ด้วยความเงียบของป่าและปราศจากสิ่งรบกวนในชีวิตประจำวัน ฉันรู้สึกใกล้ชิดกับคุณมาก @.$4#$b#ฉันรู้เสมอว่าเรามีความผูกพันเป็นพิเศษ...$4",  
+"companion_Forest_Spouse": 
+"ดวงชะตาของฉันถูกต้อง! ฉันได้รับ 'สัมผัสธรรมชาติในทุกความสง่างาม' วันนี้! ขอบคุณที่รัก!$1",  
+"companion_Forest_Spouse~1": 
+"ในป่านี้ฉันมีเพื่อนมากมาย#$b#ไม่ ไม่ใช่คนที่รัก ต้นไม้เอง!#$b#โอ้ อย่ามองฉันแบบนั้นนะ$1",  
+"companion_Mine": 
+"ฉันควรใช้โอกาสนี้เพื่อรวบรวมคริสตัล!$h",  
+"companion_Mine_Dating": 
+"ฉันภาวนาขอให้อย่าให้ชนคนในเหมือง ฉันไม่สนุกกับการฆ่าพวกเขา$2#$b#ฉันหวังว่าพวกเขาจะไม่เป็นศัตรูกัน และเราสามารถแบ่งพื้นที่ได้ แต่ฉันเข้าใจว่าทำไมพวกเขา คือ.$2",  
+"companion_Mine_Dating~1": 
+"เป็นเรื่องดีที่คลินิกของ Harvey อยู่ไม่ไกลจากที่นี่ คุณไม่มีทางรู้หรอกว่าจะเกิดอะไรขึ้น!$3#$b#มาอยู่ใกล้ ๆ กัน โอเคไหม @",  
+"companion_Mine_Spouse": 
+"Yoba โปรดอวยพรเราในที่นี้! 3 เหรียญ",  
+"companion_Mine_Spouse~1": 
+"มันยากสำหรับฉันที่จะอยู่ที่นี่ @ ฉันไม่อยากทำร้ายสิ่งมีชีวิตเหล่านี้ และพวกเราก็บุกรุกเข้าไปในบ้านของพวกมันแล้ว$2#$b#ฉันรู้ว่าเรากำลังปกป้องตัวเองอยู่ แต่ฉันหวังว่าจะมีตัวอื่นอีก ทาง...$2",  
+"companion_Mountain": 
+"ฉันคิดว่าไลนัสเลือกที่ที่น่าอยู่แบบนี้ คุณเห็นด้วยไหม",  
+"companion_Mountain_Dating": 
+"Linus เป็นคนที่น่าสนใจจริงๆ รู้จักเขาไหม#$b#ฉันหวังว่าคุณจะใจดีกับเขา เขาแค่ต้องการอยู่กับธรรมชาติ มันเป็นสิ่งที่ดี",  
+"companion_Mountain_Spouse": 
+"ทะเลสาบบนภูเขาที่ฉันชอบไปทั่วทั้งหุบเขา#$b# มีจุดที่สวยงามมากมายจึงเลือกยาก แต่ถ้าต้อง ต้องอันนี้แน่นอน!$1",  
+"companion_Town": 
+"ฉันดีใจที่กัสให้ฉันหยุดวันนี้ ไปสนุกกันเถอะ!$1",  
+"companion_Town_Dating": 
+"กัสเป็นเจ้านายที่ยิ่งใหญ่ และหลงใหลในฝีมือของเขามาก!#$b#การอยู่ใกล้ๆ นั้นมีพลังมหาศาลจริงๆ แต่สักวันหนึ่งฉันจะไม่รังเกียจที่จะเปลี่ยนอาชีพ เหมือนเป็นแม่...$4",  
+"companion_Town_Spouse": 
+"ฉันรักรถเก๋ง แต่ฉันใช้เวลามากมายกับการทำงานที่นั่น มันยากสำหรับฉันที่จะเข้าไปพักผ่อน!"
 }
+

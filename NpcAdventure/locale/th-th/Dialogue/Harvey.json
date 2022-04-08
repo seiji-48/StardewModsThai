@@ -1,39 +1,77 @@
 {
-  "companionAccepted_Spouse": "Sounds great! A change of scenery and fresh air would be really nice, dear!$1#$b#",
-  "companionRejectedNight_Spouse": "Right now? Wow you sure are healthy and energetic, dear.$2#$b#I am sorry, but we should probably should sleep soon. Getting enough sleep is quite important for our health.",
-  "companionDismiss_Spouse": "Oh, okay, I probably should head back too.#$b#It was nice walking together with you. Stay safe and be careful out there!$h",
-  "companionDismissAuto_Spouse": "It has gotten really late, we should head home soon.#$b#Don't stay up too late. I don't want you to get sleep-deprived, dear.",
-  "companionRecruited_Spouse": "I am so glad to be able to spend some time with you today. Spending time with your loved ones has many psychological benefits.$1#$b#On top of that, being together with you just makes me so happy.$4",
-  "companionAccepted": "I suppose I could take a short break from work today.",
-  "companionRejected": "Terribly sorry, @. I'm fully booked for the day.$2",
-  "companionRejectedNight": "It's far too dangerous to explore the valley at night, @. You could get hurt.$6",
-  "companionDismiss": "Ah, time for me to head back to the clinic then. Thanks for a fun time today, @.$1",
-  "companionDismissAuto": "I'm absolutely exhausted, I've got to get some rest!#$b#Sleep is very important, you know, so don't stay out too late, @! Take care.",
-  "companionRecruited": "Let's get going! I've brought my first-aid kit just in case.",
-  "companionSuggest": "I think I'm lacking some exercise in my daily routine, I could use a walk.#$q -1 -1#It would be nice to have company.#$r -1 0 Yes#That would be nice. Let's go!#$r -1 0 No#Today I can't, but thanks for inviting me.",
-  "companionSuggest_Yes": "Great! Just make sure to listen to your body and tell me if you need a break, okay?$1",
-  "companionSuggest_No": "You're welcome, just don't overwork yourself, @!",
-  "heal": "Hold still. This might sting a little.",
-  "nomedkits": "Uh-oh, I've run out of medkits.$2",
-  "companion_AdventureGuild": "These men look like they really know their stuff.#$b#I'm just not cut out for this kind of life.$1",
-  "companion_Beach": "The ocean waves are very peaceful, it's a great stress reliever.#$b#Unless, of course, you're afraid of the water, then not so peaceful...$2#$b#We could leave if you're feeling stressed?$6#$b#I'm worrying too much, aren't I?$2#$b#Sorry.$2",
-  "companion_Beach_Dating": "Did you know breathing in ocean air for health isn't just an old wives tale?#$b#It carries small droplets of sea water, which contain various vitamins and minerals that can help improve lung function and decrease sinus pressure!#$b#It's also pretty romantic to walk along the shore with you...$4",
-  "companion_Farm_Dating": "It's no wonder you're in such great shape, @, look at this place!#$b#Plus, you're always running around the valley, I could really learn something from you!$1",
-  "companion_Farm_Spouse": "I'm perfectly happy just sitting on our porch dear, I hope you don't worry about me when we're not together!$1",
-  "companion_Farm_Spouse~1": "What a view, @. I'm a happy man.$4",
-  "companion_Forest_spring": "It's that time of year again, the flowers are in bloom, and so is the tree pollen.#$b#If you're allergic, I hope you've taken your medication. It's best to start a few weeks before the season starts, but better late than never!$1",
-  "companion_Forest": "The air is so fresh today, I feel totally rejuvenated, @.#$b#If nature keeps this up, she could put me out of a job!$1",
-  "companion_Forest_Dating": "Do you find the forest to be a romantic place? Would you like it if I were to plan something for us here, sometime?#$b#I was just wondering.$4",
-  "companion_Forest_Spouse": "The scientist in me struggles to just enjoy nature without trying to analyze every little thing I see.#$b#I need to learn how to relax and just 'be'.#$b#That's what Emily says to me... every time she comes into the clinic.$1",
-  "companion_Mine": "Just one moment, @. Let me make sure I have my med kits ready...#$b#Okay, lead on!$1",
-  "companion_Mine_Dating": "I'm not what you'd call the adventuring type, @, but I'd do anything to keep you safe.$4",
-  "companion_Mountain": "It's very peaceful up by Maru's house, she lives in a wonderful part of the valley.#$b#Do you spend a lot of time with her, @? She's a lovely young woman, very bright.$6#$b#I'm thankful for her help at the clinic, and her company.$1",
-  "companion_Mountain_Dating": "There's a wonderful type of bass that lives in this mountain lake, and makes for a delicious plate of fried fish!#$b#I try to eat healthy and avoid that sort of thing, but sometimes it's okay to have a treat.",
-  "companion_Mountain_Spouse": "I often see Demetrius out here studying the local flora and fauna.#$b#I prefer the biology of the human body, but I greatly respect his work ethic!",
-  "companion_Mountain_Spouse~1": "It's nice to have a friendship with Maru, but you know that's all it ever was, right dear?#$b#You mean everything to me...$4",
-  "companion_Sewer": "Oh dear, this place is quite dank, and there's a terrible smell...$2#$b#I would advise against spending any significant time down here, @.$2",
-  "companion_Town": "I really enjoy being the local doctor, I feel like I make a real impact on the lives here.#$b#In bigger cities you don't always feel connected to your patients, or appreciated by them.#$b#It's nice to feel like you matter.$1",
-  "companion_Town_Dating": "I don't often see you at the saloon. Maybe now that we're together, you'd like to meet me there for a drink one evening?$4",
-  "companion_Town_Spouse": "It's healthy for me to be away from the clinic every now and again. It's stressful being the town doctor, although very rewarding!#$b#I'm glad we're spending some time together, @.$1",
-  "companion_WizardHouse": "Honestly, I don't much care for magic.#$b#It's too secretive for my liking, too cloak and dagger. Whereas science and medicine, that can be learned by anyone.#$b#Understanding the human form and knowing how to set a bone or treat a disease... that's magic enough for me!$1"
+  "companionAccepted_Spouse": 
+"ฟังดูดีมาก! ถ้าได้เปลี่ยนบรรยากาศและอากาศบริสุทธิ์คงจะดีมากนะที่รัก!$1#$b#",  
+"companionRejectedNight_Spouse": 
+"ตอนนี้เหรอ ว้าว คุณมีสุขภาพแข็งแรงและกระฉับกระเฉงจริงๆ ที่รัก$2#$b#ขอโทษด้วย แต่เราควรจะนอนเร็วๆ นี้ การนอนหลับให้เพียงพอเป็นสิ่งสำคัญมากสำหรับสุขภาพของเรา",  
+"companionDismiss_Spouse": 
+"โอ้ โอเค ฉันควรจะกลับเหมือนกันนะ#$b#มันดีที่เดินด้วยกันกับคุณ อยู่อย่างปลอดภัยและระวังออกไปที่นั่น!$h",  
+"companionDismissAuto_Spouse": 
+"มันดึกมากแล้ว เราควรกลับบ้านเร็วๆ#$b#อย่านอนดึกเกินไป ฉันไม่อยากให้คุณนอนไม่หลับที่รัก",  
+"companionRecruited_Spouse": 
+"ฉันดีใจมากที่ได้ใช้เวลากับคุณในวันนี้ การใช้เวลากับคนที่คุณรักมีประโยชน์ทางจิตใจมากมาย$1#$b#ยิ่งไปกว่านั้น การได้อยู่กับคุณทำให้ฉันมีความสุขมาก$4",  
+"companionAccepted": 
+"วันนี้ฉันขอพักงานแป๊บนึงนะ"  
+"companionRejected": 
+"ขออภัยอย่างยิ่ง @ วันนี้ฉันจองเต็มแล้ว $2",  
+"companionRejectedNight": 
+"มันอันตรายเกินไปที่จะสำรวจหุบเขาตอนกลางคืน @ คุณอาจได้รับบาดเจ็บ $6",  
+"companionDismiss": 
+"อ่า ได้เวลากลับคลินิกแล้ว ขอบคุณวันนี้ที่สนุกนะ @.$1",  
+"companionDismissAuto": 
+"ฉันเหนื่อยมามากแล้ว ฉันต้องพักผ่อนแล้ว!#$b#การนอนหลับเป็นสิ่งสำคัญมาก รู้ไหม อย่าอยู่ดึกเกินไป @! ดูแลตัวเองด้วย",  
+"companionRecruited": 
+"ไปกันเถอะ! ฉันเอาชุดปฐมพยาบาลมาให้แล้ว",  
+"companionSuggest": 
+"ฉันคิดว่าฉันขาดการออกกำลังกายในชีวิตประจำวันของฉัน ฉันสามารถใช้การเดินได้#$q -1 -1#มันคงจะดีถ้ามีเพื่อน#$r -1 0 ใช่# คงจะดี ไปกันเถอะ go!#$r -1 0 ไม่#วันนี้ไปไม่ได้ แต่ขอบคุณที่เชิญ",  
+"companionSuggest_Yes": 
+"เยี่ยมมาก! แค่ฟังร่างกายของคุณและบอกฉันว่าคุณต้องการหยุดพักไหม $1",  
+"companionSuggest_No": 
+"ไม่เป็นไร อย่าทำงานหนักเกินไปนะ @!",  
+"heal": 
+"ใจเย็นก่อน นี่อาจจะแสบนิดหน่อย",  
+"nomedkits": 
+"อ๊ะ ฉันหมด medkits $2",  
+"companion_AdventureGuild": 
+"ผู้ชายพวกนี้ดูเหมือนรู้เรื่องของตัวเองจริงๆ#$b#ฉันแค่ไม่ได้ถูกตัดออกจากชีวิตแบบนี้$1",  
+"companion_Beach": 
+"คลื่นทะเลสงบมาก มันช่วยคลายเครียดได้ดีมาก#$b#เว้นแต่คุณจะกลัวน้ำ ก็ไม่สงบ...$2#$b#เราออกไปได้ ถ้าคุณ รู้สึกเครียด?$6#$b#ฉันกังวลเกินไปใช่ไหม$2#$b#ขออภัย.$2",  
+"companion_Beach_Dating": 
+"คุณรู้หรือไม่ว่าการหายใจในอากาศในมหาสมุทรเพื่อสุขภาพไม่ใช่แค่นิทานของภรรยาเก่า#$b#มีน้ำทะเลหยดเล็กๆ ซึ่งประกอบด้วยวิตามินและแร่ธาตุต่างๆ ที่สามารถช่วยปรับปรุงการทำงานของปอดและลดความดันไซนัสได้!#$ ข#การได้เดินเลียบชายฝั่งไปกับเธอช่างแสนโรแมนติก...$4",  
+"companion_Farm_Dating": 
+"ไม่น่าแปลกใจเลยที่คุณมีรูปร่างดี @ ดูนี่สิ!#$b#นอกจากนี้ คุณมักจะวิ่งไปรอบๆ หุบเขา ฉันสามารถเรียนรู้บางอย่างจากคุณได้จริงๆ $1",  
+"companion_Farm_Spouse": 
+"ฉันมีความสุขอย่างยิ่งที่ได้นั่งบนระเบียงของเราที่รัก ฉันหวังว่าคุณจะไม่เป็นห่วงฉันเมื่อเราไม่ได้อยู่ด้วยกัน!$1",  
+"companion_Farm_Spouse~1": 
+"ช่างเป็นมุมมองที่ดี @. ฉันเป็นคนมีความสุข $4",  
+"companion_Forest_spring": 
+"ถึงเวลานั้นของปีอีกครั้ง ดอกไม้บาน เกสรของต้นไม้ก็เช่นกัน#$b# ถ้าคุณเป็นภูมิแพ้ ฉันหวังว่าคุณจะกินยา ทางที่ดีควรเริ่มก่อนฤดูสักสองสามสัปดาห์ เริ่มได้ แต่มาช้ายังดีกว่าไม่มา!$1",  
+"companion_Forest": 
+"วันนี้อากาศสดชื่นมาก ฉันรู้สึกกระปรี้กระเปร่า @.#$b# ถ้าธรรมชาติยังรักษาสิ่งนี้ไว้ เธออาจทำให้ฉันตกงานได้!$1",  
+"companion_Forest_Dating": 
+"คุณคิดว่าป่าเป็นสถานที่ที่โรแมนติกไหม คุณอยากจะให้ฉันวางแผนอะไรให้เราที่นี่สักครั้งไหม#$b#ฉันแค่สงสัย$4",  
+"companion_Forest_Spouse": 
+"นักวิทยาศาสตร์ในตัวฉันดิ้นรนที่จะเพลิดเพลินไปกับธรรมชาติโดยไม่ต้องพยายามวิเคราะห์ทุกสิ่งเล็กน้อยที่ฉันเห็น#$b#ฉันต้องเรียนรู้ที่จะผ่อนคลายและแค่ 'เป็น'#$b# นั่นคือสิ่งที่เอมิลี่บอกกับฉัน... ทุกครั้งที่เธอมาที่คลินิก$1",  
+"companion_Mine": 
+"เดี๋ยวก่อน @ ขอฉันเตรียมชุดยาให้พร้อมนะ...#$b#เอาล่ะ ไปต่อ!$1",  
+"companion_Mine_Dating": 
+"ฉันไม่ใช่สิ่งที่คุณเรียกว่าชอบผจญภัย @ แต่ฉันจะทำทุกอย่างเพื่อให้คุณปลอดภัย $4",  
+"companion_Mountain": 
+"ข้างบ้านมารุนั้นสงบสุขมาก เธออาศัยอยู่ในหุบเขาอันมหัศจรรย์#$b#คุณใช้เวลากับเธอมากไหม @? เธอเป็นหญิงสาวที่น่ารัก สดใสมาก$6#$b#I 'ขอบคุณสำหรับความช่วยเหลือของเธอที่คลินิกและบริษัทของเธอ$1",  
+"companion_Mountain_Dating": 
+"มีปลากะพงชนิดหนึ่งที่น่าอัศจรรย์ที่อาศัยอยู่ในทะเลสาบบนภูเขาแห่งนี้ และทำเป็นจานปลาทอดแสนอร่อย!#$b#ฉันพยายามกินเพื่อสุขภาพและหลีกเลี่ยงสิ่งนั้น แต่บางครั้งก็ไม่เป็นไรที่จะมีขนม" ,  
+"companion_Mountain_Spouse": 
+"ฉันมักจะเห็นเดเมตริอุสที่นี่ศึกษาพืชและสัตว์ในท้องถิ่น#$b#ฉันชอบชีววิทยาของร่างกายมนุษย์ แต่ฉันเคารพจรรยาบรรณในการทำงานของเขาอย่างมาก!",  
+"companion_Mountain_Spouse~1": 
+"ยินดีที่ได้เป็นเพื่อนกับมารุ แต่เธอก็รู้ว่ามันเคยเป็นแบบนั้น ใช่ไหมที่รัก#$b#เธอหมายถึงทุกอย่างสำหรับฉัน...$4",  
+"companion_Sewer": 
+"โอ้ ที่รัก ที่นี่ค่อนข้างอับชื้น และมีกลิ่นเหม็นมาก...$2#$b#ฉันขอแนะนำว่าอย่าใช้เวลาที่สำคัญที่นี่ @.$2",  
+"companion_Town": 
+"ฉันสนุกกับการเป็นหมอในท้องถิ่นจริงๆ ฉันรู้สึกราวกับว่าฉันได้สร้างผลกระทบอย่างแท้จริงต่อชีวิตที่นี่#$b#ในเมืองใหญ่ๆ คุณไม่รู้สึกว่าเชื่อมโยงกับผู้ป่วยของคุณหรือชื่นชมจากพวกเขาเสมอไป#$b#มันเป็น รู้สึกดีที่คุณมีความสำคัญ $1",  
+"companion_Town_Dating": 
+"ฉันไม่ค่อยเห็นคุณที่รถเก๋ง บางทีตอนนี้ที่เราอยู่ด้วยกัน คุณต้องการพบฉันที่นั่นเพื่อดื่มในเย็นวันหนึ่งไหม?$4",  
+"companion_Town_Spouse": 
+"การอยู่ห่างจากคลินิกเป็นระยะๆ เป็นเรื่องที่ดีต่อสุขภาพ การเป็นหมอประจำเมืองเป็นเรื่องที่เครียด แม้ว่าจะคุ้มค่ามากก็ตาม!#$b#ฉันดีใจที่เราได้ใช้เวลาร่วมกัน @.$1",  
+"companion_WizardHouse": 
+"พูดตรงๆ ฉันไม่เป็นอะไรมากดูแลเวทมนตร์#$b#มันเป็นความลับเกินไปสำหรับความชอบของฉัน เสื้อคลุมและกริชเกินไป ในขณะที่วิทยาศาสตร์และการแพทย์นั้นใครๆ ก็เรียนรู้ได้#$b#การเข้าใจร่างมนุษย์และรู้วิธีสร้างกระดูกหรือรักษาโรค...นั่นก็วิเศษเพียงพอสำหรับฉันแล้ว$1"
 }
+

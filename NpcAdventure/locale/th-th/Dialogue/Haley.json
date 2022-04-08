@@ -1,46 +1,91 @@
 {
-  "companionAccepted_Spouse": "Sure! I really enjoy going out with you!$1#$b#Let me get my camera, maybe we can take some cute pictures together on the way.",
-  "companionRejectedNight_Spouse": "I don't really like going outdoor at night, @.$2#$b#I prefer spending the night with you in our house. *giggles*$4",
-  "companionDismiss_Spouse": "Okay, I'll get going then!#$b#I snatched some cute candids of you, I better back them up!$1#$b#Love you, and take care, honey!",
-  "companionDismissAuto_Spouse": "I had fun time going out with you today, babe, but my feet are killing me.$2#$b#I'll go home and get some rest, you should go home soon too.#$b#Stay safe, love you!$1",
-  "companionRecruited_Spouse": "Ooh, I am so excited!! I even bring spare memory card and battery for my camera!$1",
-  "companionAccepted": "Alright, but let's avoid the mines. I don't want to get all dirty.",
-  "companionRejected": "Sounds boring...$2",
-  "companionRejectedNight": "It's too late to do anything now.$3",
-  "companionDismiss": "...Aww, I was just starting to enjoy myself too.#$b#Well, I guess I'll see you later!$1",
-  "companionDismissAuto": "Sorry, @, I'm too tired to continue. I'll see you later.",
-  "companionRecruited": "Hmm... where to first, @? I want to get some good shots.",
-  "companionSuggest": "I'm thinking about taking some photos of the valley.#$q -1 -1#You should come too, I could use the help.#$r -1 0 Yes#Yeah, why not? Let me gather my things.#$r -1 0 No#Sorry, I have some other things to do today. Maybe next time?",
-  "companionSuggest_Yes": "Perfect! Why don't you choose where we start?$1",
-  "companionSuggest_No": "It's a shame that you're busy. Bye, then.",
-  "companion_Beach_summer": "We're going to sunbathe today? Good idea, I need a tan!$1",
-  "companion_Beach_summer~1": "You want to go for a swim, @? It's a good day for it!",
-  "companion_Beach_Dating": "Do you want to see if there are any shells to collect? I could spend all day at the beach!$1",
-  "companion_Bugland": "You have got to be kidding!$5#$b#Remind me again why I wanted to come with you today, @?$3",
-  "companion_Bugland~1": "I stepped on something...$2#$b#It crunched.$2",
-  "companion_Desert": "A friend of my sister lives out here, she has gorgeous hair.#$b#Not better than mine, but really nice!$11",
-  "companion_Desert~1": "It's so hot!#$b#I love warm weather, but this is ridiculous.$2",
-  "companion_Farm": "You sure do have a lot of dir... land here.$2#$b#That's why you're always dirty, I guess.",
-  "companion_Farm_Dating": "I know I've teased you a bit about being outside all the time and doing all this farm work, but I'm honestly impressed.#$b#You're doing what you love, and I'm happy for you, @.",
-  "companion_Farm_Spouse": "Our porch is dirty again. I should... Oh, you're right, dear. Today we have some walking to do instead.$1",
-  "companion_Forest": "I think there is plenty of room here to build a mall.#$b#...$7#$b#What?$7",
-  "companion_Forest_Dating": "If you can get past all the bugs and dirt, it's kind of romantic here, I guess...$4",
-  "companion_Forest_Dating~1": "I've seen Penny out here with the kids before, sometimes they have day trips and picnics.#$b#I wouldn't mind having a picnic with you one of these days, if you want to?$4#$b#I could even try to cook something for us!$1",
-  "companion_Forest_Spouse": "I do like living here, @, but my fashion choices really aren't suited for tramping around in the forest.#$b#The views make up for it, I guess.$1",
-  "companion_Mine": "Can we make this quick? It's pretty dark here, which I'm used to, but everything else...$2",
-  "companion_Mine~1": "Ew, why are we here?$2#$b#I'm going to get filthy!$3",
-  "companion_Mine_Dating": "Just... stay close to me down here, okay? I'm not like you, this is definitely not my thing.$2",
-  "companion_Mine_Spouse": "I am used to the dark, @, but there aren't any slimy monsters in my darkroom!$2",
-  "companion_Mountain": "This is not a place to come wearing heels...$2",
-  "companion_Mountain_Dating": "This really is a cute area of the valley.#$b#I don't know Maru or Sebastian very well, but they don't seem to get along.$2#$b#Emily and I are so different, but we're still close.#$b#Family is important.",
-  "companion_Mountain_Spouse": "I'm glad I brought my camera today, dear! No matter the weather, this area is so nice to look at!",
-  "companion_Mountain_Spouse~1": "Honey, next time you plan on taking me out this way, remind me to wear different shoes...",
-  "companion_Sewer": "An okay day has now turned into a terrible one, so thank you for that.$3#$b#I can actually feel myself getting dirtier!$2",
-  "companion_Sewer~1": "@, are you punishing me for something?$2#$b#Just tell me what I did so I can apologize and we can leave.$2",
-  "companion_Town": "Let me get a change of clothes since we're here.",
-  "companion_Town_Dating": "Walking together through our small town with the distant sound of the sea, and all the warm autumn colors swirling around our feet. It's just so romantic...$4",
-  "companion_Town_fall": "Pelican Town isn't the most exciting place in the world, but nobody can deny how beautiful it looks this time of year!$1",
-  "companion_Town_fall~1": "I always take too many pictures of fall leaves...",
-  "companion_Town_spring": "I absolutely love all the flower petals floating through the air in spring.#$b#I never get tired of it.$4",
-  "companion_Town_Spouse": "Sweetheart, can we stop by my old house for a minute? I just like to see it every now and again.$7"
+  "companionAccepted_Spouse": 
+"แน่นอน! ฉันสนุกกับการไปเที่ยวกับคุณมาก!$1#$b#ขอกล้องของฉันก่อน บางทีเราอาจจะได้ถ่ายรูปน่ารักๆ ด้วยกันระหว่างทาง",  
+"companionRejectedNight_Spouse": 
+"ฉันไม่ชอบออกไปเที่ยวตอนกลางคืนเลย @.$2#$b#ฉันชอบค้างคืนกับคุณที่บ้านมากกว่า *หัวเราะคิกคัก*$4",  
+"companionDismiss_Spouse": 
+"ตกลง ฉันจะไปแล้วนะ!#$b#ฉันคว้าตัวแคนดิดที่น่ารักของนายมาได้แล้ว สำรองไว้ดีกว่า!$1#$b#รักนายนะ ดูแลตัวเองดีๆนะที่รัก!",  
+"companionDismissAuto_Spouse": 
+"วันนี้ฉันสนุกที่ได้ออกไปกับคุณที่รัก แต่เท้าของฉันกำลังฆ่าฉัน $2#$b#ฉันจะกลับบ้านและพักผ่อน คุณควรกลับบ้านเร็วๆ นี้เช่นกัน#$b# เดินทางปลอดภัยนะที่รัก คุณ!$1",  
+"companionRecruited_Spouse": 
+"โอ้ ตื่นเต้นจัง!! แถมเมมโมรี่การ์ดและแบตเตอรี่สำรองสำหรับกล้องด้วย!$1",  
+"companionAccepted": 
+"เอาล่ะ แต่ให้หลีกเลี่ยงเหมืองกัน ฉันไม่ต้องการทำให้สกปรกทั้งหมด",  
+"companionRejected": 
+"ฟังดูน่าเบื่อ...$2",  
+"companionRejectedNight": 
+"ตอนนี้มันสายเกินไปที่จะทำอะไร $3",  
+"companionDismiss": 
+"...อ๊ะ ฉันเพิ่งเริ่มสนุกเหมือนกันนะ#$b#เอาละ ไว้เจอกันใหม่นะ!$1",  
+"companionDismissAuto": 
+"ขอโทษนะ @ ฉันเหนื่อยเกินกว่าจะพูดต่อ แล้วเจอกันใหม่นะ",  
+"companionRecruited": 
+"อืม...จะไปไหนก่อน @? ฉันอยากถ่ายรูปดีๆ",  
+"companionSuggest": 
+"ฉันกำลังคิดว่าจะถ่ายรูปหุบเขาอยู่บ้าง#$q -1 -1# เธอควรจะมาด้วย ฉันใช้ตัวช่วยได้#$r -1 0 ใช่#ใช่ ทำไมไม่ให้ฉันเก็บของล่ะ .#$r -1 0 ไม่#ขออภัย วันนี้มีงานอื่นต้องทำ อาจจะครั้งหน้า",  
+"companionSuggest_Yes": 
+"สมบูรณ์แบบ! ทำไมไม่เลือกจุดที่เราเริ่มต้นล่ะ? $1",  
+"companionSuggest_No": 
+"น่าเสียดายที่คุณยุ่งอยู่ ลาก่อน",  
+"companion_Beach_summer": 
+"วันนี้เราจะไปอาบแดดกันไหม เป็นความคิดที่ดี ฉันต้องการผิวสีแทน!$1",  
+"companion_Beach_summer~1": 
+"ไปเล่นน้ำกันไหม @ วันนี้เป็นวันดี!",  
+"companion_Beach_Dating": 
+"คุณต้องการดูว่ามีเปลือกหอยให้เก็บหรือไม่ ฉันสามารถใช้เวลาทั้งวันที่ชายหาด! $1",  
+"companion_Bugland": 
+"เธอล้อเล่นนะ!$5#$b#เตือนฉันอีกครั้งว่าทำไมวันนี้ฉันถึงอยากมากับคุณ @?$3",  
+"companion_Bugland~1": 
+"ฉันเหยียบบางอย่าง...$2#$b#มันพัง$2",  
+"companion_Desert": 
+"เพื่อนของพี่สาวฉันอาศัยอยู่ที่นี่ เธอมีผมที่สวยสง่า#$b# ไม่ได้ดีไปกว่าของฉันแต่ก็สวยจริงๆ!$11",  
+"companion_Desert~1": 
+"มันร้อนมาก!#$b#ฉันชอบอากาศอบอุ่น แต่นี่มันไร้สาระ$2",  
+"companion_Farm": 
+"นายแน่ใจนะว่ามี dir... ที่ดินที่นี่เยอะมาก$2#$b#นั่นคือสาเหตุที่นายมักจะสกปรก ฉันเดา",  
+"companion_Farm_Dating": 
+"ฉันรู้ว่าฉันล้อคุณนิดหน่อยเกี่ยวกับการอยู่ข้างนอกและทำงานฟาร์มทั้งหมดนี้ แต่ฉันประทับใจจริงๆ#$b#คุณกำลังทำในสิ่งที่คุณรัก และฉันมีความสุขกับคุณ @",  
+"companion_Farm_Spouse": 
+"ระเบียงเราสกปรกอีกแล้ว ฉันควร... พูดถูกแล้วที่รัก วันนี้เรามีเวลาไปทำธุระกัน $1",  
+"companion_Forest": 
+"ฉันคิดว่าที่นี่มีพื้นที่มากพอที่จะสร้างห้างสรรพสินค้า#$b#...$7#$b#What?$7",  
+"companion_Forest_Dating": 
+"ถ้าคุณสามารถผ่านแมลงและสิ่งสกปรกได้ ที่นี่ก็โรแมนติกดีนะ ฉันเดาว่า...$4",  
+"companion_Forest_Dating~1": 
+"ฉันเคยเห็นเพนนีอยู่ที่นี่กับเด็กๆ มาก่อน บางครั้งพวกเขาก็มีทริปแบบไปเช้าเย็นกลับและไปปิกนิก#$b#ฉันจะไปปิกนิกกับคุณสักวันหนึ่งได้ไหม ถ้าคุณต้องการ$4#$b# ฉันสามารถลองทำอาหารให้เราได้ด้วยนะ!$1",  
+"companion_Forest_Spouse": 
+"ฉันชอบอยู่ที่นี่ @ แต่การเลือกแฟชั่นของฉันไม่เหมาะกับการเดินเล่นในป่า#$b#ฉันเดาว่าคงเป็นเพราะวิวสวยๆ $1",  
+"companion_Mine": 
+"เร็วๆ นี้ได้ไหม ที่นี่มืดมาก ซึ่งฉันคุ้นเคย แต่อย่างอื่น...$2",  
+"companion_Mine~1": 
+"เอ๊ะ เรามาที่นี่ทำไม$2#$b#ฉันจะสกปรก!$3",  
+"companion_Mine_Dating": 
+"แค่...อยู่ใกล้ฉันข้างล่างนี้ โอเค ฉันไม่ใช่คุณ นี่ไม่ใช่ของฉันแน่นอน $2",  
+"companion_Mine_Spouse": 
+"ฉันชินกับความมืดแล้ว @ แต่ไม่มีมอนสเตอร์ที่ลื่นไหลอยู่ในห้องมืดของฉัน!$2",  
+"companion_Mountain": 
+"ที่นี่ไม่ใช่ที่สำหรับใส่รองเท้าส้นสูง...$2",  
+"companion_Mountain_Dating": 
+"นี่เป็นพื้นที่ที่น่ารักของหุบเขาจริงๆ#$b#ฉันไม่รู้จักมารูหรือเซบาสเตียนดีนัก แต่ดูเหมือนพวกเขาจะเข้ากันไม่ได้$2#$b#เอมิลี่กับฉันต่างกันมาก แต่เรา ยังอยู่ใกล้กัน#$b#ครอบครัวคือสิ่งสำคัญ",  
+"companion_Mountain_Spouse": 
+"ฉันดีใจที่นำกล้องมาวันนี้ที่รัก! ไม่ว่าสภาพอากาศจะเป็นอย่างไร บริเวณนี้ก็น่ามอง!",  
+"companion_Mountain_Spouse~1": 
+"ที่รัก คราวหน้าที่คุณคิดจะพาฉันออกไปแบบนี้ เตือนฉันให้สวมรองเท้าที่ต่างออกไป...",  
+"companion_Sewer": 
+"วันนี้ที่โอเคได้กลายเป็นวันที่แย่แล้ว ขอบคุณมากสำหรับเรื่องนั้น$3#$b#ฉันรู้สึกได้ว่าตัวเองสกปรกขึ้น!$2",  
+"companion_Sewer~1": 
+"@ คุณกำลังลงโทษฉันเพื่ออะไร $2#$b# บอกฉันสิว่าฉันทำอะไรลงไป แล้วฉันจะได้ขอโทษ แล้วเราจะได้ไปกัน$2",  
+"companion_Town": 
+"ขอไปเปลี่ยนชุดก่อนนะ"  
+"companion_Town_Dating": 
+"เดินไปด้วยกันในเมืองเล็กๆ ของเราด้วยเสียงทะเลอันห่างไกล และสีสันของฤดูใบไม้ร่วงอันอบอุ่นที่หมุนวนอยู่รอบๆ เท้าของเรา มันช่างโรแมนติกเหลือเกิน...$4",  
+"companion_Town_fall": 
+"เมือง Pelican ไม่ใช่สถานที่ที่น่าตื่นเต้นที่สุดในโลก แต่ไม่มีใครปฏิเสธได้ว่าช่วงเวลานี้ของปีนั้นสวยงามเพียงใด! $1",  
+"companion_Town_fall~1": 
+"ฉันมักจะถ่ายรูปใบไม้ร่วงมากเกินไป...",  
+"companion_Town_spring": 
+"ฉันรักกลีบดอกไม้ทั้งหมดที่ลอยอยู่ในอากาศในฤดูใบไม้ผลิ#$b#ฉันไม่เคยเบื่อเลย$4",  
+"companion_Town_Spouse": 
+"ที่รัก เรามาแวะบ้านเก่าของฉันสักครู่ได้ไหม ฉันแค่อยากจะดูมันทุก ๆ ดอลลาร์ 7 ดอลลาร์”
 }
+

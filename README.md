@@ -1,4 +1,4 @@
-![](https://giphy.com/gifs/28yuo2xszIQv2plDgh)
+![](<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/28yuo2xszIQv2plDgh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/28yuo2xszIQv2plDgh">via GIPHY</a></p>)
 ## สัญลักษณ์
 
 (❌ = ยังไม่ได้แปล, 📝 = กำลังแปล, ✔ = แปลเสร็จแล้ว)

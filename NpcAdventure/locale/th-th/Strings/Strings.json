@@ -1,39 +1,76 @@
 {
-  "askToFollow": "ขอให้ {0} ติดตามคุณไหม",
-    "recruitedWant": "อะไรที่คุณต้องการ?",
-    "recruitedWant.bag": "ฉันขอใช้กระเป๋าของคุณได้ไหม",
-    "recruitedWant.dismiss": "วันนี้ฉันสนุกกับคุณ แต่ฉันมีบางอย่างที่ต้องทำตอนนี้",
-    "recruitedWant.nothing": "(ไม่มีอะไร)",
-    "spouseBuffDescription": "การผจญภัยกับ {0} ของคุณน่าดึงดูดมาก!#คุณได้รับ +1 โชคพิเศษ, +1 รัศมีแม่เหล็กพิเศษ และแสงที่สวยงาม",
-    "healed": "{0} รักษาคุณให้หาย! (+{1} สุขภาพ)",
-    "lifeSaved": "{0} ช่วยชีวิตคุณ... คราวนี้! อดทนไว้",
-    "skill.warrior": "นักรบ (ทักษะของ {0})",
-    "skillDescription.warrior": "สามารถต่อสู้ด้วยดาบและใช้การป้องกันคริติคอลในอันตราย",
-    "skill.doctor": "หมอ (ทักษะของ{0})",
-    "skillDescription.doctor": "สามารถรักษาคุณได้เมื่อสุขภาพของคุณต่ำกว่า 30%#แค่คุยกับเพื่อนของคุณถ้าคุณได้รับบาดเจ็บ",
-    "skill.fighter": "นักสู้ (ทักษะของ {0})",
-    "skillDescription.fighter": "สามารถต่อสู้ด้วยดาบ",
-    "skill.forager": "คนหาของป่า (ทักษะของ{0})",
-    "skillDescription.forager": "จะหาของป่าในขณะที่ได้รับคัดเลือก และสามารถแบ่งปันสิ่งของป่าสัตว์ที่พบกับคุณเมื่อคุณพูดคุยกับพวกเขา",
-    "skill.scared": "กลัว (ทักษะของ{0})",
-    "skillDescription.scared": "บางครั้งกรีดร้องและกระโดดออกไปเมื่อเห็นสัตว์ประหลาด",
-    "skill.fisherman": "ชาวประมง (ทักษะของ {0})",
-    "skillDescription.fisherman": "จะจับปลาเมื่อคุณกำลังตกปลาหรืออยู่เฉยๆ",
-    "skill.spiritual": "จิตวิญญาณ (ทักษะของ {0})",
-    "skillDescription.spiritual": "ทำให้ศัตรูเป็นมิตรชั่วขณะด้วยพลังของโยบะ",
-    "recruitedCompanionHint": "สหาย: {0}",
-    "companionState_follow": "สถานะ: ติดตาม",
-    "companionState_idle": "สถานะ: ว่าง",
-    "companionState_fight": "สถานะ: ต่อสู้",
-    "companionState_forage": "สถานะ: ของป่า",
-    "companionState_spiritual": "สถานะ: รัก",
-    "companionState_fish": "สถานะ: ตกปลา",
-    "spouseWife": "ภรรยา",
-    "spouseHusband": "สามี",
-    "hudSkillUsed": "(ผลของสกิลที่ใช้)",
-    "newObjective": "รายการวารสารใหม่",
-    "objectiveUpdate": "วารสารปรับปรุง",
-    "questObjective.recruitment": "{0}/{1} สหายที่ได้รับคัดเลือก",
-    "prosteticsChangeButton": "กด '{0}' เพื่อเปลี่ยนหนังเทียมของ {1}",
-    "ridingHorseNotAllowed":  "คุณไม่สามารถขี่ม้าได้ในขณะที่คุณมีเพื่อน"
+  "askToFollow": 
+  "ขอให้ {0} ติดตามคุณไหม",
+    "recruitedWant": 
+    "อะไรที่คุณต้องการ?",
+    "recruitedWant.bag": 
+    "ฉันขอใช้กระเป๋าของคุณได้ไหม",
+    "recruitedWant.dismiss": 
+    "วันนี้ฉันสนุกกับคุณ แต่ฉันมีบางอย่างที่ต้องทำตอนนี้",
+    "recruitedWant.nothing": 
+    "(ไม่มีอะไร)",
+    "spouseBuffDescription": 
+    "การผจญภัยกับ {0} ของคุณน่าดึงดูดมาก!#คุณได้รับ +1 โชคพิเศษ, +1 รัศมีแม่เหล็กพิเศษ และแสงที่สวยงาม",
+    "healed": 
+    "{0} รักษาคุณให้หาย! (+{1} สุขภาพ)",
+    "lifeSaved": 
+    "{0} ช่วยชีวิตคุณ... คราวนี้! อดทนไว้",
+    "skill.warrior": 
+    "นักรบ (ทักษะของ {0})",
+    "skillDescription.warrior": 
+    "สามารถต่อสู้ด้วยดาบและใช้การป้องกันคริติคอลในอันตราย",
+    "skill.doctor": 
+    "หมอ (ทักษะของ{0})",
+    "skillDescription.doctor": 
+    "สามารถรักษาคุณได้เมื่อสุขภาพของคุณต่ำกว่า 30%#แค่คุยกับเพื่อนของคุณถ้าคุณได้รับบาดเจ็บ",
+    "skill.fighter": 
+    "นักสู้ (ทักษะของ {0})",
+    "skillDescription.fighter": 
+    "สามารถต่อสู้ด้วยดาบ",
+    "skill.forager": 
+    "คนหาของป่า (ทักษะของ{0})",
+    "skillDescription.forager": 
+    "จะหาของป่าในขณะที่ได้รับคัดเลือก และสามารถแบ่งปันสิ่งของป่าสัตว์ที่พบกับคุณเมื่อคุณพูดคุยกับพวกเขา",
+    "skill.scared": 
+    "กลัว (ทักษะของ{0})",
+    "skillDescription.scared": 
+    "บางครั้งกรีดร้องและกระโดดออกไปเมื่อเห็นสัตว์ประหลาด",
+    "skill.fisherman": 
+    "ชาวประมง (ทักษะของ {0})",
+    "skillDescription.fisherman": 
+    "จะจับปลาเมื่อคุณกำลังตกปลาหรืออยู่เฉยๆ",
+    "skill.spiritual": 
+    "จิตวิญญาณ (ทักษะของ {0})",
+    "skillDescription.spiritual": 
+    "ทำให้ศัตรูเป็นมิตรชั่วขณะด้วยพลังของโยบะ",
+    "recruitedCompanionHint": 
+    "สหาย: {0}",
+    "companionState_follow": 
+    "สถานะ: ติดตาม",
+    "companionState_idle": 
+    "สถานะ: ว่าง",
+    "companionState_fight": 
+    "สถานะ: ต่อสู้",
+    "companionState_forage": 
+    "สถานะ: ของป่า",
+    "companionState_spiritual": 
+    "สถานะ: รัก",
+    "companionState_fish": 
+    "สถานะ: ตกปลา",
+    "spouseWife": 
+    "ภรรยา",
+    "spouseHusband": 
+    "สามี",
+    "hudSkillUsed": 
+    "(ผลของสกิลที่ใช้)",
+    "newObjective": 
+    "รายการวารสารใหม่",
+    "objectiveUpdate": 
+    "วารสารปรับปรุง",
+    "questObjective.recruitment": 
+    "{0}/{1} สหายที่ได้รับคัดเลือก",
+    "prosteticsChangeButton": 
+    "กด '{0}' เพื่อเปลี่ยนหนังเทียมของ {1}",
+    "ridingHorseNotAllowed": 
+     "คุณไม่สามารถขี่ม้าได้ในขณะที่คุณมีเพื่อน"
 }

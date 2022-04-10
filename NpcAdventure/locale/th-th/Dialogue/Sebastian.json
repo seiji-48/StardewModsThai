@@ -1,83 +1,42 @@
 {
-  "companionAccepted": 
-"ใช่ ได้สิ อยากรู้ไหมว่าจะไปที่ไหน"  
-"companionAccepted_Spouse": 
-"แน่นอน! คงจะดี ถ้าได้มีเวลาร่วมกัน แค่เราสองคน$1",  
-"companionRejected": 
-"ไม่ล่ะ ขอบคุณ"  
-"companionRejectedNight": 
-"ไม่ ขอโทษนะ @ มันสายเกินไปแล้ว ฉันจะไปนอนแล้ว",  
-"companionRejectedNight_Spouse": 
-"ฉันขอโทษที่รัก แต่มันสายไปแล้ว#$b#ฉันต้องพักสมองหลังจาก จัดการกับข้อบกพร่องมากมาย ในโค้ดของฉันในวันนี้ บางทีอาจจะครั้งหน้า$2",  
-"companionDismiss": 
-"ฉันเข้าใจ เราทุกคนต้อง อำลากันในบางจุด",  
-"companionDismiss_Spouse": 
-"เอาล่ะ ฉันคิดว่าฉันจะกลับบ้านแล้ว ฉันมีช่วงเวลาที่ดีกับคุณ $1#$b# ไว้คราวหน้าค่อยว่ากันใหม่ ระวัง!$4",  
-"companionDismissAuto": 
-"เฮ้ @ ฉันจะไปเดี๋ยวนี้ ขอบคุณ ดีมาก $1",  
-"companionDismissAuto_Spouse": 
-"ฉันสนุกมาก แต่ฉันคิดว่าฉันจะกลับบ้านแล้ว #$b# อย่านอนดึกเกินไป มิฉะนั้น รูปแบบการนอนของคุณ อาจยุ่งเหยิงเหมือนที่เคยเป็น อยู่อย่างปลอดภัย",  
-"companionRecruited": 
-"ไปที่ไหนก็เท่กับผม @",  
-"companionRecruited_Spouse": 
-"ฉันอาจจะดูไม่เหมือน แต่เมื่อใดก็ตามที่ ฉันได้ใช้เวลากับคุณ ฉันรู้สึกตื่นเต้นมาก $1",  
-"companionSuggest": 
-"วันนี้ไม่ได้แย่นัก ฉันคิดว่าฉันควรไปเดินเล่น...#$q -1 -1#ไปกับฉันไหม  #$r -1 0 ใช่#ได้ ไปกันเถอะ!#$r -1 0 ไม่ #ขออภัย วันนี้ไปไม่ได้ แต่ขอบคุณที่เชิญ",  
-"companionSuggest_Yes": 
-"ดีมาก นำทางเลย @$h",  
-"companionSuggest_No": 
-"ไม่เป็นไรนะ @ ฉันไม่รังเกียจที่จะอยู่คนเดียว",  
-"companion_Beach_summer": 
-"ฉันหวังว่า คุณจะไม่คิดว่า เราจะว่ายน้ำกัน$2#$b#แค่สำรวจเหรอ โอเค ดี",  
-"companion_Beach_Dating": 
-"ฉันแค่เป็น แฟนของที่นี่เมื่อฝนตก และฉันมักจะชอบอยู่คนเดียว แต่ฉันไม่รังเกียจที่จะ อยู่ที่นี่กับคุณ$4",  
-"companion_Beach_Dating~1": 
-"ถ้าคุณอยากจะ ไปว่ายน้ำที่นี่ ฉันจะยืนบนฝั่งและดู#$b#บางทีฉันจะพับกางเกงและ จุ่มนิ้วเท้าเพื่อคุณ$1#$b#บางที" ,  
-"companion_Farm": 
-"ฟาร์มของคุณดีสำหรับที่ที่... เปิด",  
-"companion_Farm_Dating": 
-"ฉันลืมไปเลยว่า คุณมีที่ว่างมากแค่ไหน จนกว่าฉันจะกลับมาที่นี่ มันทำให้ฉันรู้สึกแย่เสมอ#$b#มันเคยทำให้คุณประหลาดใจไหม",  
-"companion_Farm_Dating~1": 
-"ชอบเป็นเกษตรกร @?#$b#การมีที่ของตัวเองคงจะดีไม่น้อย...$2",  
-"companion_Farm_Spouse": 
-"แม้แต่จักรยานของฉัน ก็ดูดีเมื่ออยู่ในฟาร์ม$1#$b#ในตอนแรก ฉันไม่เคยจะ จินตนาการถึงสิ่งนี้เลย แต่ตอนนี้... ฉันแน่ใจว่านี่คือที่ที่เราคู่ควร $1",  
-"companion_Farm_Spouse~1": 
-"การมีพื้นที่ทั้งหมดนี้ เป็นของตัวเองเป็นเรื่องที่ดี บางครั้งฉันก็ จำเป็นต้องอยู่ห่างจากผู้คน#$b#เอาล่ะ มากกว่าบางครั้ง คุณก็รู้จักฉัน$1",  
-"companion_Forest_spring": 
-"ฉันได้ยินเสียงกบจากที่นี่ พวกมันชอบที่ชื้นแฉะๆ #$b#บางทีฉันจะพยายามจับมันให้ได้...",  
-"companion_Forest": 
-"นี่เป็นหนึ่งในสถานที่โปรด ของฉันในหุบเขา โดยเฉพาะตอนกลางคืน",  
-"companion_Forest_Dating": 
-"เราน่าจะมาที่นี่ตอนกลางคืนบ้าง แล้วก็ไปเที่ยว พูดคุย อะไรก็ได้#$b#เป็นความรู้สึกแปลกๆ ที่อยากอยู่ใกล้ใครสักคน แต่ฉันดีใจกับคุณนะ...$4",  
-"companion_Forest_Spouse": 
-"ฉันเปลี่ยนไปตั้งแต่เรา แต่งงานกัน#$b#การได้อยู่ที่นี่…ตอนแรกมันยาก แต่เมื่อฉันคิดว่า ฉันอยู่คนเดียวใน ห้องใต้ดินมากี่ปีแล้ว ฉันก็รู้สึกหดหู่เล็กน้อย#$b #ฉันรักเธอ @$4",  
-"companion_Mine": 
-"สถานที่นี้ดูเหมือน คุกใต้ดิน มันจะเป็นสถานการณ์ ที่ดีสำหรับการผจญภัย 'Solarion Chronicles' $7",  
-"companion_Mine~1": 
-"คุณมาที่นี่บ่อยแค่ไหน @?#$b# ฉันแปลกใจ ไม่คิดว่านี่จะ เป็นฉากของคุณจริงๆ",  
-"companion_Mine_Dating": 
-"ที่นี่สวยและเท่เสมอ แม้ในฤดูร้อน#$b#แถมยังมืดอีกด้วย ฉันชอบมัน$1",  
-"companion_Mine_Dating~1": 
-"ฉันดีใจที่คุณพาฉันมาที่นี่ @ ฉันต้องการให้คุณปลอดภัย.$4",  
-"companion_Mine_Spouse": 
-"ฉันชอบที่นี่ มืด ชื้น น่าขนลุก เหมาะสำหรับผู้ชายอย่างฉัน",  
-"companion_Mine_Spouse~1": 
-"ฉันรู้ว่าเธอดูแลตัวเองได้ @ แต่ฉันไม่รู้ว่าจะต้องทำยังไงถ้า เกิดอะไรขึ้นกับคุณ#$b# ไม่ได้ฟังดูขาดใจนะ แต่ฉันจะชอบถ้า คุณมาที่นี่แค่ตอนที่ ฉันอยู่กับคุณ",  
-"companion_Mountain": 
-"ตั้งแต่เราอยู่ที่นี่ ทำไมเราไม่ไป ดูทางรถไฟกันล่ะ",  
-"companion_Mountain_Dating": 
-"บางครั้งฉันก็ อยากอยู่ใกล้มารุมากขึ้น แต่เราไม่มีอะไร เหมือนกันมากนัก#$b#ฉันเดาว่ามันเป็นเรื่องปกติที่ พี่น้องบางคนจะเข้ากันไม่ได้",  
-"companion_Mountain_Spouse": 
-"ฉันรู้ว่าแม่คิดถึงแต่ทางนี้ ดีกว่าสำหรับทุกคน#$b#ฉันสงสัยว่ามารุ เป็นห่วงไหมที่ฉันจากไป$2",  
-"companion_Town": 
-"คุณต้องการหยุดที่บาร์สตาร์ดรอป และเล่นพูลไหม แต่คำเตือนที่เป็นธรรม ฉันจะทุบคุณ $1",  
-"companion_Town~1": 
-"ฉันหวังว่าเรา จะไม่เจอใครที่อยากจะคุย...",  
-"companion_Town_Dating": 
-"ตอนนี้ฉันสามารถ ไปดื่มกาแฟที่เข้มข้นได้จริงๆ ต้องการแวะมาที่บาร์สตาร์ดรอปไหม",  
-"companion_Town_Dating~1": 
-"เมืองเล็กๆ มีขึ้นมีลง#$b#ทุกคนรู้จักคุณและ มีความกดดันที่จะเข้าสังคมมากขึ้น แต่ก็มีพื้นที่เงียบสงบอีก มากมายให้อยู่คนเดียว#$b#ฉันยังอยากย้ายไปอยู่ในเมือง แต่บางครั้งฉันก็สงสัยว่านั่น จะดีที่สุดสำหรับฉันหรือเปล่า...$2",  
-"companion_Town_Spouse": 
-"คุณรู้ว่าฉันต้องการพื้นที่ของฉัน แต่ฉันดีใจที่ เรายังคงใช้เวลาร่วมกันแบบนี้ ฉันหวังว่าคุณจะรู้ $4"
+  "companionAccepted": "Yeah, sure. Have any idea where you want to go?",
+  "companionAccepted_Spouse": "Of course! It'll be nice to have some time together, just the two of us.$1",
+  "companionRejected": "Nah, no thanks.",
+  "companionRejectedNight": "No, sorry, @. It's too late, I'm going to bed soon.",
+  "companionRejectedNight_Spouse": "I am sorry, honey, but it's already late.#$b#I need to rest my brain after dealing with a bunch of bugs in my code today. Maybe next time.$2",
+  "companionDismiss": "I understand. We all have to say our goodbyes at some point.",
+  "companionDismiss_Spouse": "Alright, I guess I'll head home now then. I had great time with you.$1#$b#Let's do this again someday. Take care!$4",
+  "companionDismissAuto": "Hey, @, I'm gonna go now. Thanks, this was nice.$1",
+  "companionDismissAuto_Spouse": "I had a lot of fun, but I think I am gonna go home now.#$b#Don't stay up too late or else you might mess up your sleep pattern like I used to. Stay safe.",
+  "companionRecruited": "Anywhere you want to go is cool with me, @.",
+  "companionRecruited_Spouse": "I may not look like it, but whenever I get to spend time with you, I feel really excited.$1",
+  "companionSuggest": "It's not too bad outside today, I think I should take a walk...#$q -1 -1#Wanna join me?  #$r -1 0 Yes#Sure, let's go!#$r -1 0 No#Sorry, today I can't, but thanks for inviting me.",
+  "companionSuggest_Yes": "Good. Lead the way, @.$h",
+  "companionSuggest_No": "That's fine, @. I don't mind being alone.",
+  "companion_Beach_summer": "I hope you're not thinking about us going swimming.$2#$b#Just exploring? Okay, good.",
+  "companion_Beach_Dating": "I'm only a fan of this place when it's raining, and then I usually like to be alone, but I don't mind being here with you.$4",
+  "companion_Beach_Dating~1": "If you ever wanna go swimming here, I'll just stand on the shore and watch.#$b#Maybe I'll roll up my pants and dip my toes in, just for you.$1#$b#Maybe.",
+  "companion_Farm": "Your farm is nice, for a place so... open.",
+  "companion_Farm_Dating": "I forget how much space you have until I come back here, it always blows my mind a little.#$b#Doesn't it ever kind of freak you out?",
+  "companion_Farm_Dating~1": "Do you like being a farmer, @?#$b#It must be nice to have your own place...$2",
+  "companion_Farm_Spouse": "Even my bike looks good on the farm.$1#$b#At first, I never would have imagined any of this, but now... I'm sure this is where we belong.$1",
+  "companion_Farm_Spouse~1": "It's cool to have all this space to ourselves, sometimes I just need to stay away from people.#$b#Okay yeah, more than sometimes. You know me.$1",
+  "companion_Forest_spring": "I can hear the frogs from here, they like all this dampness.#$b#Maybe I'll try to catch one...",
+  "companion_Forest": "This is one of my favourite places in the valley, especially at night.",
+  "companion_Forest_Dating": "We should come here at night sometime, and just hang out, talk, whatever.#$b#It's a weird feeling wanting to be close to someone, but I'm happy with you...$4",
+  "companion_Forest_Spouse": "I have changed since we got married.#$b#Being out here... at first it's hard, but when I think about how many years I spent alone in my basement room, I just feel a bit depressed.#$b#I love you, @.$4",
+  "companion_Mine": "This place looks like a dungeon. It would be a good scenario for a 'Solarion Chronicles' adventure.$7",
+  "companion_Mine~1": "How often do you come here, @?#$b#I'm surprised, I didn't really think this would be your scene.",
+  "companion_Mine_Dating": "It's always nice and cool in here, even in the summer.#$b#Plus, it's dark. I like it.$1",
+  "companion_Mine_Dating~1": "I'm glad you brought me here with you, @. I want you to be safe.$4",
+  "companion_Mine_Spouse": "I like it here. Dark, damp, creepy. Perfect for a guy like me.",
+  "companion_Mine_Spouse~1": "I know you can take care of yourself, @, but I don't know what I'd do if anything happened to you.#$b#Not to sound suffocating, but I'd love it if you only came here when I'm with you.",
+  "companion_Mountain": "Since we're here, why don't we go check out the railroad?",
+  "companion_Mountain_Dating": "Sometimes I wish I was closer to Maru, but we don't have much in common.#$b#I guess it's normal for some siblings to just not get along.",
+  "companion_Mountain_Spouse": "I know my mom misses me, but it's better this way, for everyone.#$b#I wonder if Maru cares that I'm gone.$2",
+  "companion_Town": "Do you want to stop at the Saloon and play some pool? But fair warning, I'll crush you.$1",
+  "companion_Town~1": "I hope we don't run into anyone that wants to talk...",
+  "companion_Town_Dating": "I could really go for a strong cup of coffee right now. Want to drop by the saloon?",
+  "companion_Town_Dating~1": "Small towns have their ups and downs.#$b#Everyone knows you and there's more pressure to socialize, but there's also a lot of quiet areas to be alone.#$b#I'd still like to move to the city, but I wonder sometimes if that's what would be best for me...$2",
+  "companion_Town_Spouse": "You know I need my space, but I'm glad we still spend time together like this. I hope you know that.$4"
 }
-

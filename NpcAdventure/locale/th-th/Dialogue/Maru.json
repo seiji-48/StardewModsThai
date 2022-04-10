@@ -1,89 +1,45 @@
 ﻿{
-  "companionAccepted_Spouse": 
-"แน่นอน! ขออุปกรณ์ของฉันหน่อยเถอะ พวกเขาจะช่วยคุณตลอดทาง!$1",  
-"companionRejectedNight_Spouse": 
-"อืม คืนนี้เราใช้เวลาภายในคืนนี้กันไหม ฉันเหนื่อยมากวันนี้...$2",  
-"companionDismiss_Spouse": 
-"เอาล่ะ ฉันว่าฉันควรจะกลับ ไปทำงานต่อได้แล้ว#$b#ขอบคุณที่พาฉันออกไป มันสดชื่นจริงๆ ที่รัก!$1",  
-"companionDismissAuto_Spouse": 
-"นี่ นี่มันดึกมากแล้ว เราควรกลับบ้านกันเร็วๆ #$b# ฉันจะไปเตรียมเตียงรอเรานะ อย่าอยู่ดึกเกินไปนะที่รัก!",  
-"companionRecruited_Spouse": 
-"อย่ากังวลไปเลยที่รัก ขาเทียมของฉันไม่เคยทำให้คุณผิดหวัง!$1",  
-"companionAccepted": 
- "ช่างเป็นความคิดที่เยี่ยมมาก! ฉันตั้งใจ จะเก็บตัวอย่างดินเพิ่มอีก$1",  
- "companionRejected": 
-"ตอนนี้ไปไม่ได้ ฉันมีงานแล็บสำคัญที่ต้องทำ",  
-"companionRejectedNight": 
-"ขอโทษนะ @ ไม่ใช่ตอนนี้ ฉันกำลังทำโปรเจ็กต์สำคัญอยู่",  
-"companionDismiss": 
-"ไม่เป็นไร ฉันเก็บตัวอย่าง มามากพอแล้ว ขอบคุณนะ @!",  
-"companionDismissAuto": 
-"ได้เวลากลับบ้านแล้ว @ ขอบคุณสำหรับวันที่น่าสนใจ @!$h",  
-"companionRecruited": 
-"ฉันสงสัยว่าเราจะ ค้นพบสิ่งใหม่หรือไม่! $1",  
-"heal": 
-"มาทำการแก้ไขกันเถอะ $3",  
-"nomedkits": 
-"ฉันจะต้อง ไปที่คลินิกของฮาร์วีย์ ฉันไม่มีผ้าพันแผลแล้ว $2"  
-"companionSuggest": 
-"ฉันมีความคิดมากมายในตอนนี้ แต่ฉันจัดระเบียบมันไม่ได้ ฉันต้องเคลียร์หัวหน่อย#$q -1 -1#คิดจะไปเดินเล่นกับฉันไหม @?#$r -1 0 ใช่#แน่นอน! เป็นการดีที่จะหยุดพักจาก งานเป็นบางครั้ง#$r -1 0 ไม่#ฉันต้องผ่าน แต่คราวหน้าลองถามฉันใหม่นะ!",  
-"companionSuggest_Yes": 
-"คุณต้องการเป็นผู้นำทาง @ ฉันไม่รังเกียจ!",  
-"companionSuggest_No": 
-"ฉันคิดว่าคุณมีงานต้องทำอีกมาก ไม่มีปัญหา แล้วเจอกัน!",  
-"companion_Beach_Night": 
-"ว้าว ดูท้องฟ้ายามค่ำคืนนั่นสิ!#$b# ดวงจันทร์ที่สะท้อนกับมหาสมุทร ทุกอย่างชัดเจนมาก#$b# มันเกือบจะมหัศจรรย์เลยนะ @?$4",  
-"companion_Beach_Dating": 
-"คุณมาที่นี่บ่อยไหม @?#$b#ฉันแทบจะ ไม่ได้ออกไปทางนี้เลย ฉันใช้เวลากับ โปรเจ็กต์ในบ้านมากเกินไป!",  
-"companion_Bugland": 
-"นี่มันน่าทึ่งจริงๆ @!#$b# สัตว์ประหลาดหน้าตา ประหลาดจริงๆเลย ฉันต้องเก็บตัวอย่าง ระหว่างที่เราอยู่ที่นี่ และอาจกลับมากับพ่อของฉันก็ได้!$1",  
-"companion_Farm": 
-"ฉันรักฟาร์มของคุณจริงๆ @!#$b# หากคุณต้องการ ความช่วยเหลือเพิ่มเติม หรืออะไรก็ตาม คุณสามารถถามฉันได้เสมอ! ฉันไม่อยากให้คุณเลิกงาน!",  
-"companion_Farm_Dating": 
-"บางครั้งฉันก็เดินไปที่ขอบฟาร์มของคุณ แล้วพุ่งเข้าไปโดยหวังว่า จะได้เห็นคุณทำงาน#$b#ขออภัยหากฟังดูน่าขนลุก ฉันคิดว่าคุณมีเสน่ห์มาก ในองค์ประกอบของคุณ...$4",  
-"companion_Farm_Dating~1": 
-"ฉันจำได้ว่าพ่อของฉัน บอกว่าอยากออกมา ทำการทดลองที่นี่ เขาเคยไปทำอย่างนั้น หรือเปล่า#$b#จิตใจของฉัน กระจัดกระจายไปในทุกวันนี้...$2",  
-"companion_Farm_Spouse": 
-"ขอบคุณที่พาฉันไปด้วยวันนี้ ที่รัก ฉันใช้เวลาในบ้านมาก เกินไปในการซ่อมแซมโปรเจ็กต์ของฉัน!$1",  
-"companion_Forest_Night": 
-"มันน่าขนลุกมากตอนนี้ @.$2#$b#แต่บรรยากาศนี้ ทำให้ฉันมีความคิดใหม่ๆ สำหรับการประดิษฐ์! ฉันควรจะเอาสมุดจด ของฉันมาด้วย...#$b#โอ้ ฉันก็คงจะไม่มีวันลืม มันคง..",  
-"companion_Forest_Dating": 
-"บางทีเราอาจจะมาที่นี่ในตอนเย็น นำผ้าห่มไปดูจักรวาล ด้วยกันไหม$4#$b#ฉันเอากล้องดูดาวไปด้วยได้ ถ้าเป็นคืนที่อากาศแจ่มใส!",  
-"companion_Forest_Spouse": 
-"บางทีเราควรหยุดพักผ่อน และไปปิกนิกที่นี่#$b#เพนนีชอบทำแบบนั้น บางครั้งกับวินเซนต์และแจส ฉันคิดว่าเธอกำลังจะทำอะไรอยู่นะ$1",  
-"companionOnce_Mine": 
-"โอ้ เหมือง! ฉันมักจะกลัวที่จะมาที่นี่คนเดียว ฉันไม่ใช่นักสู้มากนัก#$b# แต่ฉันได้เรียนรู้วิธีการรักษาง่ายๆ จากการทำงานที่คลินิก ดังนั้นถ้าคุณได้รับบาดเจ็บ ฉันช่วยได้!#$b#ไปกันเถอะ ไปกันเถอะ การค้นพบกำลังรออยู่!$h",  
-"companion_Mine": 
-"ในเหมือง น่าตื่นเต้นมาก!$l#$b# คุณคิดว่าเราจะพบอะไรใหม่ๆ ไหม",  
-"companion_Mine~1": 
-"ฉันดีใจที่ได้อยู่กับนักสู้อย่างคุณ @.#$b#ด้วยทักษะการรักษาของเรา เราสร้างทีมที่ดีได้!$h",  
-"companion_Mine~2": 
-"ขอบคุณที่พาฉันไปที่เหมืองในวันนี้ @.#$b#ฉันต้องการโลหะมากขึ้น สำหรับโครงการของฉันเสมอ!$h",  
-"companion_Mine_Dating": 
-"ฉันจำไม่ได้ว่าที่นี่มืดมาก...$2#$b#อยู่ใกล้ฉันด้วย @! ฉันไม่รู้ว่าจะทำอย่างไร ถ้าเราต้องแยกจากกัน!$2",  
-"companion_Mine_Dating~1": 
-"ฉันจะอยู่ข้างๆเธอนะ @ ฉันรู้ว่าเธอจะปกป้องพวกเราได้!$4",  
-"companion_Mine_Spouse": 
-"อย่าลืมระวังไว้ตรงนี้นะที่รัก! ฉันมีชุดยาไว้แล้ว เผื่อมีอะไรผิดพลาด แต่ฉันหวังเสมอว่า มันจะไม่เป็นอย่างนั้น!$3",  
-"companion_Mountain_Dating": 
-"ฉันรักบ้านของฉันเสมอมา มันมีทุกอย่างที่ฉันต้องการ แต่มันคงจะดีถ้ามีที่ของตัวเอง!#$b#คุณโชคดีมากที่มีฟาร์มของคุณ @",  
-"companion_Mountain_Spouse": 
-"ฉันต้องถามพ่อของฉัน เกี่ยวกับดินในฟาร์มของเรา หุบเขาทั้งหมดอุดมสมบูรณ์มาก แต่พื้นที่ของเรา ดูพิเศษเป็นพิเศษ!#$b#คุณปู่ของคุณเคยพูดถึงคุณไหม ว่าเขาสังเกตเห็นอะไรผิดปกติ เกี่ยวกับที่ดินไหม บางทีอาจเป็นเพราะ ความใกล้ชิดกับ... ไม่ ไม่ใช่ว่า...$3",  
-"companion_Mountain_Spouse~1": 
-"บางครั้งฉันก็คิดถึงบ้าน ฉันดีใจที่มันอยู่ใกล้แค่เอื้อม...พูดไปเรื่อย#$b#คุณเคยคิดถึงการใช้ชีวิตในเมืองไหม",  
-"companion_Mountain_Spouse~2": 
-"ช่วงนี้ฉันไม่ค่อยได้ เจอเซบาสเตียนมากนัก ไม่ใช่ว่าฉันเห็นเขามากก่อนจะจากไป#$b#ฉันสงสัยว่าเขาสังเกตเห็นมั้ย...$2",  
-"companion_Town_Dating": 
-"คุณเคยคิดถึงบ้านบ้างไหม @? ฉันหมายถึงชีวิตเก่าๆ ของคุณในเมืองนี้...$2#$b#คุณยังคงคิดถึง บ้านนั้นอยู่ไหม$2#$b#ฉันหวังว่าที่นี่ จะเพียงพอสำหรับ คุณในเมืองเพลิแกน..$4",  
-"companion_Town_Spouse": 
-"ฉันรู้สึกขอบคุณฮาร์วีย์มาก ที่ให้ฉันได้ร่วมงานกับ เขาที่คลินิก ฉันดีใจที่เราเป็นเพื่อนกัน",  
-"companion_Town_Spouse~1": 
-"ฉันไม่ได้ไปซาลูนบ่อย แต่ไปกับเธอ @! บางทีเราอาจจะได้ ไปทานอาหารเย็นที่นั่นบ้าง",  
-"companion_Tunnel": 
-"นั่นเสียงอะไรนะ!$9#$b#ฉันนี่แย่จริงๆ @ เราไปกันเร็วๆ ได้ไหม$2",  
-"companion_WizardHouse": 
-"ฉันได้ยินมาว่าเรื่องราวที่น่าสนใจ เกี่ยวกับชายผู้นี้ มีคุณ @?#$b#ฉันสงสัยว่าเขาจะให้ฉันเลือกสมอง ของเขาสักนาทีหรือหนึ่งชั่วโมง#$b#บางทีเราอาจจะใช้เวลาทั้งวัน?$4",  
-"companion_WizardHouse~1": 
-"ฉันชอบที่จะเรียนรู้เพิ่มเติม เกี่ยวกับธาตุเหล่านี้#$b# ขออภัย ฉันไม่คิดว่าฉันเป็นลูกบุญธรรมที่ นายราสโมเดียส กำลังมองหา...$2"
+  "companionAccepted_Spouse": "Absolutely! Let me get my gadgets, they will help you along the way!$1",
+  "companionRejectedNight_Spouse": "Um, how about we spend our time tonight inside? I am quite exhausted today...$2",
+  "companionDismiss_Spouse": "Okay, then. I suppose I should go back and work on stuff.#$b#Thanks for taking me out, it was really refreshing, honey!$1",
+  "companionDismissAuto_Spouse": "Hey, it's getting really late. We probably should go home soon.#$b#I'll go ahead and prepare the bed for us. Don't stay out too late, honey!",
+  "companionRecruited_Spouse": "Don't worry sweetie, my prosthetics will never disappoint you!$1",
+  "companionAccepted": "What an excellent idea! I've been meaning to collect some more soil samples.$1",
+  "companionRejected": "I can't right now, I have some important lab work to attend to.",
+  "companionRejectedNight": "Sorry @, not now. I'm working on an important project.",
+  "companionDismiss": "That's okay! I've collected enough samples to last a while, thanks, @!",
+  "companionDismissAuto": "It's time for me to head home, @. Thanks for an interesting day, @!$h",
+  "companionRecruited": "I wonder if we'll discover anything new!$1",
+  "heal": "Let's get you patched up.$3",
+  "nomedkits": "I'll have to stop by Harvey's clinic, I haven't got any more bandages.$2",
+  "companionSuggest": "I have so many ideas right now, but I can't organize them. I need to declutter my head a bit.#$q -1 -1#Mind going for a walk with me, @?#$r -1 0 Yes#Sure! It's good to take a break from work every now and then.#$r -1 0 No#I'll have to pass, but be sure to ask me next time!",
+  "companionSuggest_Yes": "Do you want to lead the way, @? I don't mind!",
+  "companionSuggest_No": "I suppose you have a lot of work to do yourself. No problem then, see you later!",
+  "companion_Beach_Night": "Wow, look at that night sky!#$b#The way the moon is reflecting on the ocean, everything's so clear.#$b#It's almost magical, don't you think, @?$4",
+  "companion_Beach_Dating": "Do you come here often, @?#$b#I hardly get out this way on my own, I spend way too much time on my projects indoors!",
+  "companion_Bugland": "This is truly fascinating, @!#$b#What strange looking creatures. I need to take some samples while we're here, and maybe come back with my dad!$1",
+  "companion_Farm": "I really love your farm, @!#$b#If you ever need an extra hand or something, you can always ask me! I wouldn't want you getting over worked!",
+  "companion_Farm_Dating": "Sometimes I walk to the edge of your farm and peak in, hoping to get a glimpse of you working.#$b#Sorry if that sounds creepy, I just think you're really attractive in your element...$4",
+  "companion_Farm_Dating~1": "I remember my dad mentioned wanting to come out here and setting up an experiment, did he ever get around to doing that?#$b#My minds so scattered these days...$2",
+  "companion_Farm_Spouse": "Thanks for taking me with you today honey, I've been spending too much time indoors tinkering with my projects!$1",
+  "companion_Forest_Night": "It's pretty creepy here right now, @.$2#$b#But this atmosphere is giving me a new idea for an invention! I should have brought my notepad...#$b#Oh well, I probably won't forget it. Probably.",
+  "companion_Forest_Dating": "Maybe we could come here sometime in the evening, bring a blanket and watch the cosmos together?$4#$b#I could even bring my telescope, if it's a nice clear night!",
+  "companion_Forest_Spouse": "Maybe we should take a proper day off and have a picnic here.#$b#Penny likes to do that, sometimes with Vincent and Jas. I think she's onto something!$1",
+  "companionOnce_Mine": "Oh, the mines! I'm always too scared to come here alone, I'm not much of a fighter.#$b#But I've learned some simple healing methods from working at the clinic, so if you get hurt I can help!#$b#C'mon, let's go! Discoveries await!$h",
+  "companion_Mine": "The mines, this is so exciting!$l#$b#Do you think we'll find anything new?",
+  "companion_Mine~1": "I'm glad I'm here with a fighter like you, @.#$b#With my healing skills, we make a pretty good team!$h",
+  "companion_Mine~2": "Thank you for taking me to the mines today, @.#$b#I always need more metal for my projects!$h",
+  "companion_Mine_Dating": "I don't remember it being so dark in here...$2#$b#Stay close to me, @! I don't know what I'd do if we got separated!$2",
+  "companion_Mine_Dating~1": "I'm going to stay right beside you, @. I know you'll keep us safe!$4",
+  "companion_Mine_Spouse": "Let's remember to be careful here, honey! I have med kits in case anything goes wrong, but I always hope it doesn't come to that!$3",
+  "companion_Mountain_Dating": "I've always loved my house, it has everything I need, but it'd sure be nice to have a place of my own!#$b#You're so lucky to have your farm, @.",
+  "companion_Mountain_Spouse": "I need to ask my dad about the soil on our farm, the whole valley is so fertile, but our space seems extra special!#$b#Did your grandfather ever mention to you anything unusual he noticed about the land? Maybe it's the proximity to... no, not that...$3",
+  "companion_Mountain_Spouse~1": "I miss home sometimes, I'm glad it's just around the corner... relatively speaking.#$b#Do you ever miss living in the city?",
+  "companion_Mountain_Spouse~2": "I don't see Sebastian much these days, not that I saw much of him before I left.#$b#I wonder if he's even noticed...$2",
+  "companion_Town_Dating": "Do you ever get homesick, @? I mean with your old life in the city...$2#$b#Do you still consider that home?$2#$b#I hope there's enough here to keep you in Pelican Town...$4",
+  "companion_Town_Spouse": "I'm so grateful to Harvey for letting me work with him at the clinic. I'm glad we're friends.",
+  "companion_Town_Spouse~1": "I don't go to the saloon often, but I'd go with you, @! Maybe we could have dinner there sometime?",
+  "companion_Tunnel": "What was that sound?!$9#$b#I am really on edge here, @. Could we leave soon?$2",
+  "companion_WizardHouse": "I've heard such interesting stories about this man, have you, @?#$b#I wonder if he'd let me pick his brain for a minute, or an hour.#$b#Maybe we could spend the day?$4",
+  "companion_WizardHouse~1": "I'd love to learn more about these elementals.#$b#Unfortunately I don't think I'm the kind of protege Mr. Rasmodius is looking for...$2"
 }
-

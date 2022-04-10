@@ -1,55 +1,108 @@
 {
-  "ambient_Mine_Abigail": "Be blessed my sword!",
-  "ambient_Mine_Abigail~1": "I love exploring the mines!",
-  "ambient_Mine_Abigail~2": "Are we going into the mines {0}?",
-  "ambient_Mine_Abigail~3": "I < it here!",
-  "ambient_Woods_Abigail": "Mysterious place",
-  "ambient_Mines_Harvey": "I'm more of a lover than a fighter...",
-  "fight_Abigail": "Taste my blade!",
-  "fight_Abigail~1": "Get back!",
-  "fight_Abigail~2": "AHH!",
-  "fight_Abigail~3": "Uaaaaa!",
-  "fight_Abigail~4": "Take that!",
-  "fight_Alex": "Let me handle this.",
-  "fight_Alex~1": "Come here!",
-  "fight_Alex~2": "Who wants some?",
-  "fight_Alex~3": "You're mine!",
-  "fight_Alex~4": "Catch this!",
-  "fight_Elliott": "Leave my friend alone!",
-  "fight_Elliott~1": "Stay back!",
-  "fight_Elliott~2": "En Garde!",
-  "fight_Emily": "Eeek!",
-  "fight_Emily~1": "Watch out!",
-  "fight_Emily~2": "Look out!",
-  "fight_Haley": "Ewwww..",
-  "fight_Haley~1": "Ick!",
-  "fight_Haley~2": "Gross!",
-  "fight_Harvey": "The needle is mightier than the sword!",
-  "fight_Harvey~1": "Come here!",
-  "fight_Harvey~2": "Lucky I brought a medkit!",
-  "fight_Harvey~3": "Time to take your medicine!",
-  "fight_Leah": "Prepare yourself!",
-  "fight_Leah~1": "{0}, be careful!",
-  "fight_Leah~2": "Hyaaa!",
-  "fight_Maru": "Yikes!",
-  "fight_Maru~1": "Look, over there!",
-  "fight_Maru~2": "Oh!",
-  "fight_Penny": "Eeep!",
-  "fight_Penny~1": "...!",
-  "fight_Penny~2": "Stay away!",
-  "fight_Sam": "I'll take care of this.",
-  "fight_Sam~1": "COWABUNGA!",
-  "fight_Sam~2": "Get back here!",
-  "fight_Sam~3": "You better run!",
-  "fight_Sebastian": "Hands off!",
-  "fight_Sebastian~1": "Take this!",
-  "fight_Sebastian~2": "Failure is not an option!",
-  "fight_Sebastian~3": "Hyaaaa!",
-  "fight_Shane": "Get outta my face.",
-  "fight_Shane~1": "Grrr!",
-  "fight_Shane~2": "I'll end you!",
-  "fight_Shane~3": "Get away from me!",
-  "spiritualKilledMonster_Emily": "Why did you kill them?",
-  "spiritualKilledMonster_Emily~1": "Why?",
-  "spiritualKilledMonster_Emily~2": "{0}, you are heartless"
+  "ambient_Mine_Abigail":
+   "ได้รับพรดาบของฉัน!",
+  "ambient_Mine_Abigail~1":
+   "ฉันชอบสำรวจเหมือง!",
+  "ambient_Mine_Abigail~2":
+   "เรากำลังจะเข้าไปในเหมือง {0} หรือไม่?",
+  "ambient_Mine_Abigail~3":
+   "ฉัน < มันนี่!",
+  "ambient_Woods_Abigail":
+   "สถานที่ลึกลับ",
+  "ambient_Mines_Harvey":
+   "ฉันเป็นคนรักมากกว่านักสู้...",
+  "fight_Abigail":
+   "ชิมใบมีดของฉัน!",
+  "fight_Abigail~1":
+   "ได้รับกลับ!",
+  "fight_Abigail~2":
+   "เอ๊ะ!",
+  "fight_Abigail~3":
+   "อ๊าาาา!",
+  "fight_Abigail~4":
+   "รับมันไป!",
+  "fight_Alex":
+   "ให้ฉันจัดการเรื่องนี้",
+  "fight_Alex~1":
+   "มานี่สิ!",
+  "fight_Alex~2":
+   "ใครอยากได้บ้าง?",
+  "fight_Alex~3":
+   "คุณเป็นของฉัน!",
+  "fight_Alex~4":
+   "จับนี่!",
+  "fight_Elliott":
+   "ปล่อยให้เพื่อนของฉันอยู่คนเดียว!",
+  "fight_Elliott~1":
+   "อยู่ด้านหลัง!",
+  "fight_Elliott~2":
+   "อองการ์ด!",
+  "fight_Emily":
+   "อี๊ก!",
+  "fight_Emily~1":
+   "ระวัง!",
+  "fight_Emily~2":
+   "ระวัง!",
+  "fight_Haley":
+   "เอ๊อะ..",
+  "fight_Haley~1":
+   "อิก!",
+  "fight_Haley~2":
+   "ทั้งหมด!",
+  "fight_Harvey":
+   "เข็มแข็งแกร่งกว่าดาบ!",
+  "fight_Harvey~1":
+   "มานี่สิ!",
+  "fight_Harvey~2":
+   "โชคดีที่ฉันนำกล่องปฐมพยาบาลมา!",
+  "fight_Harvey~3":
+   "ได้เวลากินยาแล้ว!",
+  "fight_Leah":
+   "เตรียมตัวให้พร้อม!",
+  "fight_Leah~1":
+   "{0} ระวัง!",
+  "fight_Leah~2":
+   "ห๊าาา!",
+  "fight_Maru":
+   "เยส!",
+  "fight_Maru~1":
+   "ดูนั่นสิ!",
+  "fight_Maru~2":
+   "โอ้!",
+  "fight_Penny":
+   "อี๊บ!",
+  "fight_Penny~1":
+   "...!",
+  "fight_Penny~2":
+   "อยู่ห่างๆ!",
+  "fight_Sam":
+   "ฉันจะจัดการเรื่องนี้",
+  "fight_Sam~1":
+   "โควาบังก้า!",
+  "fight_Sam~2":
+   "กลับมานี่!",
+  "fight_Sam~3":
+   "คุณทำงานได้ดีขึ้น!",
+  "fight_Sebastian":
+   "เอามือออกไป!",
+  "fight_Sebastian~1":
+   "เอานี่!",
+  "fight_Sebastian~2":
+   "ความล้มเหลวไม่ใช่ทางเลือก!",
+  "fight_Sebastian~3":
+   "ห๊าาาา!",
+  "fight_Shane":
+   "ออกไปจากหน้าฉันซะ",
+  "fight_Shane~1":
+   "กรี๊สสส!",
+  "fight_Shane~2":
+   "ฉันจะจบคุณ!",
+  "fight_Shane~3":
+   "อยู่ห่างๆ ฉันไว้!",
+  "spiritualKilledMonster_Emily":
+   "ทำไมคุณถึงฆ่าพวกเขา?",
+  "spiritualKilledMonster_Emily~1":
+   "ทำไม?",
+  "spiritualKilledMonster_Emily~2":
+   "{0} คุณใจร้าย"
 }

@@ -1,49 +1,143 @@
 {
-  "companionAccepted": "You wanna go on an adventure with me?#$b#Well, @, what are we waiting for? Let's go!$1",
-  "companionAccepted_Spouse": "I'd love to, @!$1#$b#Do you want to check out the mines today?",
-  "companionRejected": "Sounds cool, but I can't go today, sorry.",
-  "companionRejectedNight": "It's too late to go exploring now!$3",
-  "companionRejectedNight_Spouse": "Sorry, @, I'm feeling tired. I'll be going to bed soon.",
-  "companionDismiss": "Thanks for bringing me with you, @, I had fun.$1#$b#I hope to do it again sometime soon, see ya!$1",
-  "companionDismiss_Spouse": "I had a great time, @, but I should head back to the farm now anyways.#$b#Stay safe, I love you!$1",
-  "companionDismissAuto": "Hey, @, it's getting late and I'm tired.#$b#I'm gonna go home now, but I had fun! Let's do it again soon.$1",
-  "companionDismissAuto_Spouse": "I'm gonna go, @.#$b#You should head to bed soon too honey. Be safe!",
-  "companionRecruited": "Can we go to the mines, @?#$b#I'm always up for that!$1",
-  "companionRecruited_Spouse": "I'm excited, @! I always love our time together.$4",
-  "companionSuggest": "Hey, listen! I'm thinking about exploring today.#$q -1 -1#What do you think, @?#$r -1 0 Yes#It's dangerous to go alone! Take me with you.#$r -1 0 No#I would love to go, but my sword is in another bag.",
-  "companionSuggest_Yes": "Okay, let's go find some trouble!$1",
-  "companionSuggest_No": "That's no good, @. A real adventurer should always be prepared!",
-  "companion_Beach": "I see Sebastian out here sometimes when it's raining. He really doesn't like to be bothered on those days, even more than usual.",
-  "companion_Beach~1": "It's pretty nice here, @.#$b#For a town on the water, this beach doesn't get very busy. I guess we're lucky that way.",
-  "companion_Beach_summer": "If I knew we were coming here, I would have brought a hat, and applied some sunscreen!$3",
-  "companion_Beach_Dating": "I like walking along the sea. Don't you just love the sound of it?",
-  "companion_Beach_Dating~1": "The breeze coming off the water is so nice!#$b#I don't care if it's hot or cold outside, I love that ocean air year round!$1",
-  "companion_Beach_Spouse": "On a nice day we could come here with a blanket, or even better during the evening, and watch the waves reflect the stars.#$b#Would you like that, @?$4",
-  "companion_Desert": "Ugh, this heat is killing me!$2#$b#What are we doing here anyways, @?$3",
-  "companion_Farm": "You're doing a good job on the farm, @. I'm glad you moved here.",
-  "companion_Farm_Dating": "What's it like to be a farmer, @? It must be nice to have all this land and space to yourself.#$b#I wouldn't mind living on a farm... I've been thinking about that more and more lately.$4",
-  "companion_Farm_Spouse": "Our farm is never boring, you know? Even so, I think we could change a little something here and there...",
-  "companion_Farm_Spouse~1": "Do you remember back around when we first met, @? I told you how I used to wander this farm alone, before you got here?#$b#Sometimes, I come out here while you're out running around like crazy.#$b#I stand on the porch and try to remember what it looked like before, all overgrown and wild, I loved it back then...#$b#but, I love it so much more now, because it's where we live. It's our home, and you did that for us. I'm lucky.$4",
-  "companion_Forest": "Do you think the wizard is here today?#$b#...#$b#Why am I asking? I just think he's an interesting guy.",
-  "companion_Forest_summer": "I like the sounds of the forest, but the nectar from all these flowers...$2#$b#it's giving me a headache!$3",
-  "companion_Forest_Dating": "I'm really enjoying this day with, @! I love when we get to spend time together.$1",
-  "companion_Forest_Spouse": "It really feels magical here, like it's in the air or something. Do you know what I mean, @?",
-  "companion_Mine": "Yay! This is so exciting!$1",
-  "companion_Mine~1": "I love this, @! These monsters don't stand a chance!$1",
-  "companion_Mine~2": "It's so fun to explore these old mines, we can come back here anytime you want!",
-  "companion_Mine~3": "Have you found anything cool here, @? Keep your eyes open, there's a ton of great stuff!",
-  "companion_Mine~4": "You know, I'm really glad we're getting closer, @. I think we make a pretty good team!#$b#Super Farmer and Amethyst Girl, dynamic monster slaying duo!$1#$b#Okay, that was pretty lame. Don't tell anybody I said that.$2",
-  "companion_Mine_Dating": "The monsters here are no joke, @. Stay close to me, I'll protect you!",
-  "companion_Mine_Spouse": "You know how much I love exploring the mines, @, but I feel much more comfortable when you're here with me.$1",
-  "companion_Mine_Spouse~1": "Honey, if you see any amethyst, please collect it for me!",
-  "companion_Mountain": "The wind here is so refreshing!",
-  "companion_Mountain_Dating": "You're really giving me a workout today, @!#$b#Not that I would ever join my moms aerobics class anyways, but with you, I get all the exercise I need!$1",
-  "companion_Mountain_Spouse": "I love this part of the valley, and Sebastian lives right over there.#$b#I'm glad he and I are still friends.$1",
-  "companion_Town_Dating": "You wanna go hang out in my room, @?#$b#Why? To play video games, of course!#$b#What else?$4",
-  "companion_Town_Spouse": "Hey, @.#$b#Maybe we could go to the saloon together one of these nights, you know, like a date night?#$b#Is that silly, since we're already married?$4",
-  "companion_Town_Night": "The town is kind of eerie at night, isn't it? I like it.",
-  "companion_Town_fall": "The leaves are covering the footpaths.#$b#Pelican town is full of so many vibrant colors. It's beautiful!",
-  "companion_Town_fall_Rainy": "I love when it rains during fall.#$b#It helps me think clearer, and splashing around in puddles is pretty fun!$1",
-  "companionReaction_BathHouse_WomensLocker.3": "Don't ...!$7",
-  "companionReaction_SeedShop.7": "Do you want to play Prairie king?#$b#I am ready to beat them!"
+  "companionAccepted": 
+  
+  "ไปผจญภัยกับฉันไหม#$b#เอาล่ะ @ เรารออะไรอยู่ ไปกันเถอะ!$1",    
+  "companionAccepted_Spouse": 
+  
+  "ฉันชอบ @!$1#$b# วันนี้ไปสำรวจเหมืองกันไหม",    
+  "companionRejected": 
+  
+  "ฟังดูดี แต่วันนี้ฉันไปไม่ได้ ขอโทษนะ",    
+  "companionRejectedNight": 
+  
+  "สายเกินไปที่จะ ไปสำรวจตอนนี้!$3",    
+  "companionRejectedNight_Spouse": 
+  
+  "ขอโทษนะ @ ฉันรู้สึกเหนื่อย ฉันจะไปนอนเร็ว ๆ นี้",    
+  "companionDismiss": 
+  
+  "ขอบคุณที่พาฉันไปด้วย @ ฉันสนุกนะ$1#$b#ฉันหวังว่า จะทำอีกครั้งในเร็วๆ นี้ แล้วเจอกัน!$1",    
+  "companionDismiss_Spouse": 
+  
+  "ฉันมีช่วงเวลาที่ดี @ แต่ฉันก็ควรจะกลับ ไปที่ฟาร์มตอนนี้นะ#$b#อยู่อย่างปลอดภัยนะ ฉันรักคุณ!$1",    
+  "companionDismissAuto": 
+  
+  "นี่ @ ค่ำแล้ว เหนื่อย#$b#ฉันจะกลับบ้านแล้ว แต่สนุกนะ! ไว้ค่อยทำใหม่$1",    
+  "companionDismissAuto_Spouse": 
+  
+  "ฉันไปล่ะ @.#$b# เธอควรจะเข้านอนเร็วๆ นะที่รัก เดินทางปลอดภัยนะ!",    
+  "companionRecruited": 
+  
+  "ไปเหมืองกันไหม @?#$b#ฉันพร้อมเสมอ!$1",    
+  "companionRecruited_Spouse": 
+  
+  "ฉันตื่นเต้น @! ฉันชอบเวลาที่มีร่วมกันเสมอ $4",    
+  "companionSuggest": 
+  
+  "เฮ้ ฟังนะ! ฉันกำลังคิดออกสำรวจวันนี้#$q -1 -1# เธอคิดว่าไง @?#$r - 0 ใช่#ไปคนเดียวมันอันตราย พาฉันไปด้วย#$r -1 0 ไม่ #ฉันอยากไป แต่ดาบของฉัน อยู่ในกระเป๋าอีกใบ",    
+  "companionSuggest_Yes": 
+  
+  "เอาล่ะ ไปหาเรื่องกันเถอะ!$1",    
+  "companionSuggest_No": 
+  
+  "ไม่ดีเลย @ นักผจญภัยตัวจริง ควรเตรียมพร้อมเสมอ!",    
+  "companion_Beach": 
+  
+  "ฉันเห็นเซบาสเตียน อยู่ที่นี่เป็นบางครั้ง ตอนที่ฝนตก เขาไม่ชอบให้วุ่นวาย ในวันนั้นเลย มากกว่าปกติ",    
+  "companion_Beach~1": 
+  
+  "ที่นี่สวยดีนะ @.#$b# สำหรับเมืองริมน้ำ ชายหาดนี้ ไม่มีคนพลุกพล่าน ฉันเดาว่า เราโชคดีนะ ที่เป็นแบบนี้",    
+  "companion_Beach_summer": 
+  
+  "ถ้าฉันรู้ว่าเรากำลังมาที่นี่ ฉันจะเอาหมวก และทาครีมกันแดดมา! 3 เหรียญ",    
+  "companion_Beach_Dating": 
+  
+  "ฉันชอบเดินเลียบทะเล เธอแค่ชอบเสียงของมันเหรอ",    
+  "companion_Beach_Dating~1": 
+  
+  "ลมที่พัดมาจากน้ำนั้นดีมาก!#$b#ฉันไม่สนใจว่าข้างนอก จะร้อนหรือหนาว ฉันชอบอากาศในมหาสมุทร ตลอดทั้งปี!$1",    
+  "companion_Beach_Spouse": 
+  
+  "ในวันที่อากาศดี เราอาจมาที่นี่พร้อมผ้าห่ม หรือดีกว่าในตอนเย็น และชมคลื่นสะท้อนดวงดาว#$b# คุณชอบไหม @?$4",    
+  "companion_Desert": 
+  
+  "ฮึ ร้อนนี้ฆ่าฉันเลย!$2#$b#พวกเรามาทำอะไรที่นี่กัน @?$3",    
+  "companion_Farm": 
+  
+  "คุณทำได้ดีมากในฟาร์ม @ ฉันดีใจที่คุณย้ายมาที่นี่",    
+  "companion_Farm_Dating": 
+  
+  "การเป็นชาวนาเป็นยังไงบ้าง @? คงจะดีไม่น้อยที่มีที่ดินและ พื้นที่ทั้งหมดนี้เป็นของตัวเอง#$b# ฉันไม่อยากคิดที่ จะใช้ชีวิตในฟาร์ม... ฉันคิดเกี่ยวกับ เรื่องนั้นมากขึ้นแล้ว เพิ่มเติมล่าสุด.$4",    
+  "companion_Farm_Spouse": 
+  
+  "ฟาร์มของเราไม่เคยน่าเบื่อ รู้ไหม ฉันคิดว่าเราสามารถ เปลี่ยนแปลงอะไรเล็กๆ น้อยๆ ได้ที่นี่...",    
+  "companion_Farm_Spouse~1": 
+  
+  "จำได้ไหมว่าตอนที่ เราพบกันครั้งแรก @ ฉันบอกคุณว่า ฉันเคยเดินเตร่ฟาร์มนี้คนเดียว ก่อนที่คุณจะมาถึง ที่นี่ได้อย่างไร#$b#บางครั้ง ฉันออกมาที่นี่ ในขณะที่คุณวิ่งออกไปอย่างบ้าคลั่ง #$b#ฉันยืนอยู่ที่ระเบียงและ พยายามจำสิ่งที่มัน ดูเหมือนเมื่อก่อน รกและรกไปหมด ฉันชอบมันมากตอนนั้น...#$b#แต่ฉันรักมันมากขึ้น ตอนนี้เพราะเป็นที่ที่เรา สด มันคือบ้านของเรา และคุณทำเพื่อเรา ฉันโชคดี $4",    
+  "companion_Forest": 
+  
+  "คุณคิดว่าพ่อมด อยู่ที่นี่วันนี้หรือไม่#$b#...#$b#ทำไมฉันถึงถาม ฉันแค่คิดว่าเขาเป็นคนที่น่าสนใจ",    
+  "companion_Forest_summer": 
+  
+  "ฉันชอบเสียงของป่า แต่น้ำหวานจาก ดอกไม้ทั้งหมดนี้...$2#$b#มันทำให้ฉันปวดหัว!$3",    
+  "companion_Forest_Dating": 
+  
+  "วันนี้ฉันมีความสุขมากกับ @! ฉันชอบเวลาที่ เราได้ใช้เวลาร่วมกัน $1",    
+  "companion_Forest_Spouse": 
+  
+  "ที่นี่รู้สึกมหัศจรรย์จริงๆ เหมือนอยู่ในอากาศ หรืออะไรสักอย่าง คุณรู้ไหมว่าฉันหมายถึงอะไร @",    
+  "companion_Mine": 
+  
+  "เย้! น่าตื่นเต้นจัง!$1",    
+  "companion_Mine~1": 
+  
+  "ฉันรักสิ่งนี้ @! สัตว์ประหลาดเหล่านี้ ไม่มีโอกาส! $1",    
+  "companion_Mine~2": 
+  
+  "มันสนุกมากที่ ได้สำรวจเหมืองเก่าเหล่านี้ เราจะกลับมาที่นี่ ได้ทุกเมื่อที่คุณต้องการ!",    
+  "companion_Mine~3": 
+  
+  "คุณเจออะไรเจ๋งๆ ที่นี่ @? ลืมตาขึ้นบ้าง มีอะไรดีๆ อีกเพียบ!",    
+  "companion_Mine~4": 
+  
+  "คุณรู้ไหม ฉันดีใจจริงๆ ที่เราได้ใกล้ชิดกันมากขึ้น @ ฉันคิดว่าเราสร้างทีม ได้ค่อนข้างดี!#$b#Super Farmer และ Amethyst Girl คู่หูสังหาร สัตว์ประหลาดแบบไดนามิก!$1#$b#เอาล่ะ นั่นคือ ง่อยจัง อย่าบอกใครนะ ว่าฉันพูดแบบนั้น $2",    
+  "companion_Mine_Dating": 
+  
+  "สัตว์ประหลาดที่นี่ ไม่ใช่เรื่องตลก @ อยู่ใกล้ๆ ฉันสิ ฉันจะปกป้องเธอเอง!",    
+  "companion_Mine_Spouse": 
+  
+  "คุณรู้ไหมว่า ฉันชอบสำรวจเหมือง มากแค่ไหน @ แต่ฉันรู้สึกสบายใจ มากขึ้น เมื่อคุณอยู่กับฉัน $1",    
+  "companion_Mine_Spouse~1": 
+  
+  "ที่รัก ถ้าคุณเห็นอเมทิสต์ตัวใด โปรดเก็บมันมาให้ฉันด้วย!",    
+  "companion_Mountain": 
+  
+  "ลมที่นี่สดชื่นมาก!",    
+  "companion_Mountain_Dating": 
+  
+  "วันนี้คุณออกกำลังกาย ให้ฉันจริงๆ @!#$b# ไม่ว่าฉัน จะเคยเข้าร่วมคลาสแอโรบิก สำหรับคุณแม่อยู่แล้ว แต่กับคุณ ฉันได้รับการออกกำลังกาย ทั้งหมดที่จำเป็น!$1",    
+  "companion_Mountain_Spouse": 
+  
+  "ฉันชอบส่วนนี้ของหุบเขา และเซบาสเตียน อาศัยอยู่ที่นั่น#$b#ฉันดีใจที่เขา กับฉันยังคงเป็นเพื่อนกัน $1",    
+  "companion_Town_Dating": 
+  
+  "คุณอยากไปเที่ยวที่ ห้องของฉันไหม @?#$b#ทำไม? ในการเล่นวิดีโอเกม แน่นอน!#$b#มีอะไรอีก$4",    
+  "companion_Town_Spouse": 
+  
+  "เฮ้ @.#$b#บางทีเราอาจไป ห้องนั่งเล่นด้วยกันในคืนนี้ เหมือนเป็นคืนวันที่?#$b# งี่เง่าไหม เพราะเราแต่งงานกันแล้ว?$4",    
+  "companion_Town_Night": 
+  
+  "เมืองนี้ดูน่าขนลุก ในตอนกลางคืนใช่ไหม ฉันชอบมัน",    
+  "companion_Town_fall": 
+  
+  "ใบไม้ปกคลุมทางเดิน#$b#เมืองนกกระทุงเต็มไป ด้วยสีสันสวยงามมาก สวยงาม!",    
+  "companion_Town_fall_Rainy": 
+  
+  "ฉันชอบเวลาที่ฝนตก ในฤดูใบไม้ร่วง#$b# มันช่วยให้ฉันคิด ได้ชัดเจนขึ้น และการได้เล่นน้ำ ในแอ่งน้ำก็สนุกมาก!$1",    
+  "companionReaction_BathHouse_WomensLocker.3": 
+  
+  "อย่า...!$7",    
+  "companionReaction_SeedShop.7": 
+  
+  "อยากเล่นเป็นแพรรี่คิงไหม#$b#ฉันพร้อมที่ จะเอาชนะพวกเขาแล้ว!"  
 }
